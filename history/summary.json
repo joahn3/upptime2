@@ -58,19 +58,19 @@
     "url": "https://goodpc.ro",
     "icon": "https://favicons.githubusercontent.com/goodpc.ro",
     "slug": "good-pc",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 624,
-    "timeDay": 279,
-    "timeWeek": 381,
-    "timeMonth": 624,
-    "timeYear": 624,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "94.96%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 907,
+    "timeDay": 2999,
+    "timeWeek": 1048,
+    "timeMonth": 907,
+    "timeYear": 907,
     "dailyMinutesDown": {
-      "2022-02-26": 1
+      "2022-02-26": 73
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "https://wesecureweb.dev",
     "icon": "https://favicons.githubusercontent.com/wesecureweb.dev",
     "slug": "we-secure-web-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 810,
-    "timeDay": 194,
-    "timeWeek": 910,
-    "timeMonth": 810,
-    "timeYear": 810,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "94.98%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 780,
+    "timeDay": 230,
+    "timeWeek": 830,
+    "timeMonth": 780,
+    "timeYear": 780,
     "dailyMinutesDown": {
-      "2022-02-26": 1
+      "2022-02-26": 72
     }
   },
   {
