@@ -4,9 +4,9 @@
     "url": "https://www.chicroumaine.com",
     "icon": "https://favicons.githubusercontent.com/www.chicroumaine.com",
     "slug": "chic-roumaine",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 5693,
     "timeMonth": 4980,
     "timeYear": 4980,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 0
+    }
   },
   {
     "name": "Earthlink",
@@ -23,19 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/earthlink.ro",
     "slug": "earthlink",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1067,
     "timeDay": 1121,
     "timeWeek": 1060,
     "timeMonth": 1067,
     "timeYear": 1067,
-    "dailyMinutesDown": {
-      "2022-02-28": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tsty",
@@ -61,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/goodpc.ro",
     "slug": "good-pc",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 831,
     "timeDay": 367,
     "timeWeek": 976,
