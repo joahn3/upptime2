@@ -58,9 +58,9 @@
     "url": "https://goodpc.ro",
     "icon": "https://favicons.githubusercontent.com/goodpc.ro",
     "slug": "good-pc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
@@ -70,6 +70,7 @@
     "timeMonth": 854,
     "timeYear": 854,
     "dailyMinutesDown": {
+      "2022-02-28": 0,
       "2022-02-26": 73
     }
   },
@@ -132,9 +133,9 @@
     "url": "https://notarsector4.ro",
     "icon": "https://favicons.githubusercontent.com/notarsector4.ro",
     "slug": "notariat-sector-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,7 +144,9 @@
     "timeWeek": 474,
     "timeMonth": 1111,
     "timeYear": 1111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 0
+    }
   },
   {
     "name": "Notariat Sector 4 <Google version>",
@@ -186,9 +189,9 @@
     "url": "https://parentalcontrol.ro",
     "icon": "https://favicons.githubusercontent.com/parentalcontrol.ro",
     "slug": "parental-control-romania",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,16 +200,18 @@
     "timeWeek": 1902,
     "timeMonth": 1185,
     "timeYear": 1185,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 0
+    }
   },
   {
     "name": "WeSecureWeb.dev",
     "url": "https://wesecureweb.dev",
     "icon": "https://favicons.githubusercontent.com/wesecureweb.dev",
     "slug": "we-secure-web-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
@@ -216,6 +221,7 @@
     "timeMonth": 979,
     "timeYear": 979,
     "dailyMinutesDown": {
+      "2022-02-28": 0,
       "2022-02-26": 72
     }
   },
