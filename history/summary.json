@@ -22,19 +22,19 @@
     "url": "https://earthlink.ro",
     "icon": "https://favicons.githubusercontent.com/earthlink.ro",
     "slug": "earthlink",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1067,
-    "timeDay": 1212,
-    "timeWeek": 1090,
-    "timeMonth": 1067,
-    "timeYear": 1067,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "96.24%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 1055,
+    "timeDay": 1107,
+    "timeWeek": 1060,
+    "timeMonth": 1055,
+    "timeYear": 1055,
     "dailyMinutesDown": {
-      "2022-03-01": 0
+      "2022-03-01": 54
     }
   },
   {
