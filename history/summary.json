@@ -116,19 +116,19 @@
     "url": "https://rolcris.ro",
     "icon": "https://favicons.githubusercontent.com/rolcris.ro",
     "slug": "rol-cris-ro",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2981,
-    "timeDay": 3114,
-    "timeWeek": 2909,
-    "timeMonth": 2981,
-    "timeYear": 2981,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2997,
+    "timeDay": 3215,
+    "timeWeek": 2960,
+    "timeMonth": 2997,
+    "timeYear": 2997,
     "dailyMinutesDown": {
-      "2022-03-01": 0
+      "2022-03-01": 7
     }
   },
   {
