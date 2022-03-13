@@ -13,7 +13,7 @@
     "time": 4516,
     "timeDay": 4145,
     "timeWeek": 4178,
-    "timeMonth": 4516,
+    "timeMonth": 4687,
     "timeYear": 4516,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1069,
     "timeDay": 1028,
     "timeWeek": 1169,
-    "timeMonth": 1069,
+    "timeMonth": 1054,
     "timeYear": 1069,
     "dailyMinutesDown": {
       "2022-03-01": 54
@@ -51,7 +51,7 @@
     "time": 2108,
     "timeDay": 2393,
     "timeWeek": 2405,
-    "timeMonth": 2108,
+    "timeMonth": 2081,
     "timeYear": 2108,
     "dailyMinutesDown": {}
   },
@@ -60,18 +60,19 @@
     "url": "https://goodpc.ro",
     "icon": "https://favicons.githubusercontent.com/goodpc.ro",
     "slug": "good-pc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
     "time": 977,
     "timeDay": 614,
     "timeWeek": 405,
-    "timeMonth": 977,
+    "timeMonth": 1011,
     "timeYear": 977,
     "dailyMinutesDown": {
+      "2022-03-13": 0,
       "2022-02-26": 73
     }
   },
@@ -89,7 +90,7 @@
     "time": 302,
     "timeDay": 352,
     "timeWeek": 398,
-    "timeMonth": 302,
+    "timeMonth": 313,
     "timeYear": 302,
     "dailyMinutesDown": {}
   },
@@ -107,7 +108,7 @@
     "time": 1779,
     "timeDay": 1562,
     "timeWeek": 1837,
-    "timeMonth": 1779,
+    "timeMonth": 1774,
     "timeYear": 1779,
     "dailyMinutesDown": {}
   },
@@ -125,7 +126,7 @@
     "time": 3077,
     "timeDay": 3051,
     "timeWeek": 3390,
-    "timeMonth": 3077,
+    "timeMonth": 3007,
     "timeYear": 3077,
     "dailyMinutesDown": {}
   },
@@ -143,7 +144,7 @@
     "time": 1011,
     "timeDay": 727,
     "timeWeek": 1359,
-    "timeMonth": 1011,
+    "timeMonth": 884,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -161,7 +162,7 @@
     "time": 233,
     "timeDay": 286,
     "timeWeek": 261,
-    "timeMonth": 233,
+    "timeMonth": 227,
     "timeYear": 233,
     "dailyMinutesDown": {}
   },
@@ -179,7 +180,7 @@
     "time": 1077,
     "timeDay": 1056,
     "timeWeek": 1162,
-    "timeMonth": 1077,
+    "timeMonth": 1058,
     "timeYear": 1077,
     "dailyMinutesDown": {}
   },
@@ -197,7 +198,7 @@
     "time": 1076,
     "timeDay": 1360,
     "timeWeek": 1106,
-    "timeMonth": 1076,
+    "timeMonth": 992,
     "timeYear": 1076,
     "dailyMinutesDown": {
       "2022-03-02": 16
@@ -209,15 +210,15 @@
     "icon": "https://favicons.githubusercontent.com/wesecureweb.dev",
     "slug": "we-secure-web-dev",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "98.63%",
+    "uptime": "99.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 826,
-    "timeDay": 235,
+    "timeDay": 302,
     "timeWeek": 511,
-    "timeMonth": 826,
+    "timeMonth": 891,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2022-03-12": 20,
@@ -239,7 +240,7 @@
     "time": 327,
     "timeDay": 306,
     "timeWeek": 358,
-    "timeMonth": 327,
+    "timeMonth": 331,
     "timeYear": 327,
     "dailyMinutesDown": {}
   },
@@ -257,7 +258,7 @@
     "time": 87,
     "timeDay": 218,
     "timeWeek": 67,
-    "timeMonth": 87,
+    "timeMonth": 78,
     "timeYear": 87,
     "dailyMinutesDown": {}
   }
