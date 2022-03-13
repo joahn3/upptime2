@@ -4,18 +4,20 @@
     "url": "https://www.chicroumaine.com",
     "icon": "https://favicons.githubusercontent.com/www.chicroumaine.com",
     "slug": "chic-roumaine",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4516,
-    "timeDay": 4145,
-    "timeWeek": 4178,
-    "timeMonth": 4687,
-    "timeYear": 4516,
-    "dailyMinutesDown": {}
+    "time": 4423,
+    "timeDay": 2664,
+    "timeWeek": 3804,
+    "timeMonth": 4570,
+    "timeYear": 4423,
+    "dailyMinutesDown": {
+      "2022-03-13": 0
+    }
   },
   {
     "name": "Earthlink",
@@ -61,18 +63,17 @@
     "icon": "https://favicons.githubusercontent.com/goodpc.ro",
     "slug": "good-pc",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptime": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 963,
     "timeDay": 549,
     "timeWeek": 415,
     "timeMonth": 994,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2022-03-13": 14,
       "2022-02-26": 73
     }
   },
