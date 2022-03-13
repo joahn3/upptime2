@@ -4,19 +4,19 @@
     "url": "https://www.chicroumaine.com",
     "icon": "https://favicons.githubusercontent.com/www.chicroumaine.com",
     "slug": "chic-roumaine",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4423,
-    "timeDay": 2664,
-    "timeWeek": 3804,
-    "timeMonth": 4570,
-    "timeYear": 4423,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4479,
+    "timeDay": 3933,
+    "timeWeek": 4100,
+    "timeMonth": 4631,
+    "timeYear": 4479,
     "dailyMinutesDown": {
-      "2022-03-13": 0
+      "2022-03-13": 10
     }
   },
   {
