@@ -22,19 +22,19 @@
     "url": "https://earthlink.ro",
     "icon": "https://favicons.githubusercontent.com/earthlink.ro",
     "slug": "earthlink",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "94.71%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
-    "time": 1081,
-    "timeDay": 1193,
-    "timeWeek": 1161,
-    "timeMonth": 1071,
-    "timeYear": 1081,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "94.37%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 1080,
+    "timeDay": 1142,
+    "timeWeek": 1147,
+    "timeMonth": 1070,
+    "timeYear": 1080,
     "dailyMinutesDown": {
-      "2022-03-14": 76,
+      "2022-03-14": 81,
       "2022-03-01": 54
     }
   },
@@ -43,19 +43,19 @@
     "url": "https://tsty.ro",
     "icon": "https://favicons.githubusercontent.com/tsty.ro",
     "slug": "tsty",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2121,
-    "timeDay": 1851,
-    "timeWeek": 2273,
-    "timeMonth": 2101,
-    "timeYear": 2121,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2133,
+    "timeDay": 2192,
+    "timeWeek": 2306,
+    "timeMonth": 2116,
+    "timeYear": 2133,
     "dailyMinutesDown": {
-      "2022-03-14": 1
+      "2022-03-14": 5
     }
   },
   {
@@ -119,9 +119,9 @@
     "url": "https://rolcris.ro",
     "icon": "https://favicons.githubusercontent.com/rolcris.ro",
     "slug": "rol-cris-ro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,7 +130,9 @@
     "timeWeek": 3261,
     "timeMonth": 3066,
     "timeYear": 3101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-14": 0
+    }
   },
   {
     "name": "Notariat Sector 4",
