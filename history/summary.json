@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/earthlink.ro",
     "slug": "earthlink",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "94.37%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.70%",
+    "uptimeDay": "94.78%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 1080,
     "timeDay": 1142,
     "timeWeek": 1147,
     "timeMonth": 1070,
     "timeYear": 1080,
     "dailyMinutesDown": {
-      "2022-03-14": 81,
+      "2022-03-14": 75,
       "2022-03-01": 54
     }
   },
@@ -44,19 +44,17 @@
     "icon": "https://favicons.githubusercontent.com/tsty.ro",
     "slug": "tsty",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2133,
     "timeDay": 2192,
     "timeWeek": 2306,
     "timeMonth": 2116,
     "timeYear": 2133,
-    "dailyMinutesDown": {
-      "2022-03-14": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GoodPC",
@@ -120,18 +118,19 @@
     "icon": "https://favicons.githubusercontent.com/rolcris.ro",
     "slug": "rol-cris-ro",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 3101,
     "timeDay": 2701,
     "timeWeek": 3261,
     "timeMonth": 3066,
     "timeYear": 3101,
     "dailyMinutesDown": {
-      "2022-03-14": 0
+      "2022-03-15": 26,
+      "2022-03-14": 2
     }
   },
   {
