@@ -32,6 +32,10 @@ sites:
     url: https://la-sulea.business.site
   - name: Profesor Floriana Pliundra
     url: https://floriana-pliundra-website.vercel.app
+  - name: ionutFrancisc.com (Netlify Dev version)
+    url: https://ionut-francisc.netlify.app
+    icon: https://ionut-francisc.netlify.app/favicon.png
+
   
 
 status-website:
