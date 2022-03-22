@@ -24,6 +24,9 @@ sites:
     url: https://sites.google.com/view/notariatonline-ro
   - name: Zametu
     url: https://zametu.ro
+  - name: consilierJuridicOnline.ro
+    url: https://consilierjuridiconline.ro
+    icon: https://consilierjuridiconline.ro/content/images/size/w600/2022/02/logo-consilier_juridic-removebg-preview.png
   - name: Parental Control Romania
     url: https://parentalcontrol.ro
   - name: WeSecureWeb.dev
@@ -35,8 +38,9 @@ sites:
   - name: ionutFrancisc.com (Netlify Dev version)
     url: https://ionut-francisc.netlify.app
     icon: https://ionut-francisc.netlify.app/favicon.png
-
-  
+  - name: Firacode clients uptime monitoring
+    url: https://joahn3.github.io/upptime2/
+    icon: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
 
 status-website:
   theme: dark
