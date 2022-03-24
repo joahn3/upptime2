@@ -43,9 +43,9 @@
     "url": "https://tsty.ro",
     "icon": "https://favicons.githubusercontent.com/tsty.ro",
     "slug": "tsty",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 2076,
     "timeMonth": 2160,
     "timeYear": 2121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-24": 0
+    }
   },
   {
     "name": "GoodPC",
