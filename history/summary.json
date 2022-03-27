@@ -210,9 +210,9 @@
     "url": "https://parentalcontrol.ro",
     "icon": "https://favicons.githubusercontent.com/parentalcontrol.ro",
     "slug": "parental-control-romania",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -222,6 +222,7 @@
     "timeMonth": 630,
     "timeYear": 844,
     "dailyMinutesDown": {
+      "2022-03-27": 0,
       "2022-03-02": 16
     }
   },
@@ -231,11 +232,11 @@
     "icon": "https://favicons.githubusercontent.com/wesecureweb.dev",
     "slug": "we-secure-web-dev",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.82%",
     "time": 742,
     "timeDay": 61,
     "timeWeek": 787,
