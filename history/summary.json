@@ -31,7 +31,7 @@
     "time": 1092,
     "timeDay": 1031,
     "timeWeek": 1020,
-    "timeMonth": 1117,
+    "timeMonth": 1107,
     "timeYear": 1092,
     "dailyMinutesDown": {
       "2022-03-14": 75,
@@ -44,28 +44,26 @@
     "icon": "https://favicons.githubusercontent.com/tsty.ro",
     "slug": "tsty",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2125,
     "timeDay": 2092,
     "timeWeek": 2026,
     "timeMonth": 2182,
     "timeYear": 2125,
-    "dailyMinutesDown": {
-      "2022-03-29": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GoodPC",
     "url": "https://goodpc.ro",
     "icon": "https://favicons.githubusercontent.com/goodpc.ro",
     "slug": "good-pc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -75,6 +73,7 @@
     "timeMonth": 756,
     "timeYear": 786,
     "dailyMinutesDown": {
+      "2022-03-29": 0,
       "2022-02-26": 73
     }
   },
@@ -213,18 +212,18 @@
     "icon": "https://favicons.githubusercontent.com/parentalcontrol.ro",
     "slug": "parental-control-romania",
     "status": "down",
-    "uptime": "95.17%",
+    "uptime": "94.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.49%",
-    "uptimeMonth": "92.94%",
-    "uptimeYear": "95.17%",
+    "uptimeWeek": "68.14%",
+    "uptimeMonth": "92.63%",
+    "uptimeYear": "94.97%",
     "time": 844,
     "timeDay": 0,
     "timeWeek": 417,
     "timeMonth": 655,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2022-03-29": 829,
+      "2022-03-29": 965,
       "2022-03-28": 1440,
       "2022-03-27": 806,
       "2022-03-02": 16
