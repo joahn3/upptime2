@@ -118,7 +118,7 @@
     "uptime": "91.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "55.86%",
+    "uptimeMonth": "55.85%",
     "uptimeYear": "91.88%",
     "time": 1782,
     "timeDay": 0,
@@ -126,7 +126,7 @@
     "timeMonth": 1704,
     "timeYear": 1782,
     "dailyMinutesDown": {
-      "2022-07-28": 1069,
+      "2022-07-28": 1075,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
@@ -224,7 +224,7 @@
     "timeMonth": 0,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2022-07-28": 1069,
+      "2022-07-28": 1075,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
@@ -290,7 +290,7 @@
     "timeMonth": 0,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2022-07-28": 1069,
+      "2022-07-28": 1075,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
@@ -380,7 +380,7 @@
     "timeMonth": 0,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2022-07-28": 1069,
+      "2022-07-28": 1075,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
@@ -552,19 +552,19 @@
     "url": "https://floriana-pliundra-website.vercel.app",
     "icon": "https://favicons.githubusercontent.com/floriana-pliundra-website.vercel.app",
     "slug": "profesor-floriana-pliundra",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 165,
-    "timeWeek": 94,
-    "timeMonth": 113,
-    "timeYear": 154,
+    "time": 156,
+    "timeDay": 296,
+    "timeWeek": 136,
+    "timeMonth": 123,
+    "timeYear": 156,
     "dailyMinutesDown": {
-      "2022-07-28": 0
+      "2022-07-28": 6
     }
   },
   {
