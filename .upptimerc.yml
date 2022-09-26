@@ -41,6 +41,16 @@ sites:
   - name: Firacode clients uptime monitoring
     url: https://joahn3.github.io/upptime2/
     icon: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  - name: Ledone.ro
+    url: https://ledone.ro/
+    icon: https://www.ledone.ro/img/led-one-logo-1545331888.jpg
+  - name: BOLD Models
+    url: https://cursmodeling.ro
+    icon: https://www.cursmodeling.ro/wp-content/uploads/2022/07/curs-modeling-bold-models-school-logo.jpg
+  - name: Security & Telecom Systems
+    url: https://security-telecom.ro
+    icon: 
+
 
 status-website:
   theme: dark
