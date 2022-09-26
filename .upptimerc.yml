@@ -4,6 +4,9 @@ repo: upptime2 # The name of this repository
 user-agent: joahn3
 
 sites:
+  - name: Firacode.ro
+    url: https://firacode.ro
+    icon: 
   - name: Chic Roumaine
     url: https://www.chicroumaine.com
   - name: Earthlink
@@ -14,8 +17,12 @@ sites:
     url: https://goodpc.ro
   - name: GoodPC <Google version>
     url: https://good-pc.business.site
-  - name: Anahicont
-    url: https://anahicont.ro
+  - name: Ioana Hutter - Contabil Sector 3 <Google version>
+    url: https://expert-contabil-sector3.business.site/
+    icon: https://expert-contabil-sector3.business.site/
+  - name: Expert contabil Sector 3 website
+    url: https://sites.google.com/view/expert-contabil-sector3/
+    icon: https://sites.google.com/view/expert-contabil-sector3/
   - name: RolCris.ro
     url: https://rolcris.ro
   - name: Notariat Sector 4
@@ -49,7 +56,12 @@ sites:
     icon: https://www.cursmodeling.ro/wp-content/uploads/2022/07/curs-modeling-bold-models-school-logo.jpg
   - name: Security & Telecom Systems
     url: https://security-telecom.ro
-    icon: 
+  - name: Baffi Cafe
+    url: https://bafficafe.ro
+    icon: https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png
+  - name: Baffi Cafe <Google version>
+    url: https://restaurant-baffi-cafe-bragadiru.business.site/
+    icon: https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png
 
 
 status-website:
