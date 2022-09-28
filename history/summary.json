@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-28": 1167,
+      "2022-09-28": 1180,
       "2022-09-27": 1440,
       "2022-09-26": 848
     }
@@ -317,18 +317,18 @@
     "icon": "https://consilierjuridiconline.ro/content/images/size/w600/2022/02/logo-consilier_juridic-removebg-preview.png",
     "slug": "consilier-juridic-online-ro",
     "status": "down",
-    "uptime": "30.50%",
+    "uptime": "30.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.50%",
+    "uptimeYear": "30.49%",
     "time": 637,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2022-09-28": 1167,
+      "2022-09-28": 1180,
       "2022-09-27": 1440,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
@@ -480,7 +480,7 @@
     "timeMonth": 0,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2022-09-28": 1167,
+      "2022-09-28": 1180,
       "2022-09-27": 1440,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
@@ -807,19 +807,19 @@
     "url": "https://security-telecom.ro",
     "icon": "https://favicons.githubusercontent.com/security-telecom.ro",
     "slug": "security-and-telecom-systems",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1714,
-    "timeDay": 1404,
-    "timeWeek": 1714,
-    "timeMonth": 1714,
-    "timeYear": 1714,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 1751,
+    "timeDay": 1581,
+    "timeWeek": 1751,
+    "timeMonth": 1751,
+    "timeYear": 1751,
     "dailyMinutesDown": {
-      "2022-09-28": 0
+      "2022-09-28": 13
     }
   },
   {
