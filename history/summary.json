@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-06": 627,
+      "2022-10-06": 649,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
@@ -34,19 +34,19 @@
     "url": "https://www.chicroumaine.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.chicroumaine.com.ico",
     "slug": "chic-roumaine",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5270,
-    "timeDay": 5729,
-    "timeWeek": 6189,
-    "timeMonth": 5605,
-    "timeYear": 5270,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 5267,
+    "timeDay": 5089,
+    "timeWeek": 5971,
+    "timeMonth": 5570,
+    "timeYear": 5267,
     "dailyMinutesDown": {
-      "2022-10-06": 0
+      "2022-10-06": 21
     }
   },
   {
@@ -343,7 +343,7 @@
     "timeMonth": 0,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2022-10-06": 627,
+      "2022-10-06": 649,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
@@ -503,7 +503,7 @@
     "timeMonth": 0,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2022-10-06": 627,
+      "2022-10-06": 649,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
