@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-24": 501,
+      "2022-10-24": 539,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
@@ -361,7 +361,7 @@
     "timeMonth": 0,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2022-10-24": 501,
+      "2022-10-24": 539,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
@@ -539,7 +539,7 @@
     "timeMonth": 0,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2022-10-24": 501,
+      "2022-10-24": 540,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
@@ -881,19 +881,19 @@
     "url": "https://cursmodeling.ro",
     "icon": "https://www.cursmodeling.ro/wp-content/uploads/2022/07/curs-modeling-bold-models-school-logo.jpg",
     "slug": "bold-models",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 8319,
-    "timeDay": 7564,
-    "timeWeek": 8157,
-    "timeMonth": 8319,
-    "timeYear": 8319,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 8328,
+    "timeDay": 7916,
+    "timeWeek": 8208,
+    "timeMonth": 8328,
+    "timeYear": 8328,
     "dailyMinutesDown": {
-      "2022-10-24": 0
+      "2022-10-24": 39
     }
   },
   {
