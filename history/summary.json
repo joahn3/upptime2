@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-10": 882,
+      "2022-11-10": 895,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
@@ -205,19 +205,19 @@
     "url": "https://sites.google.com/view/expert-contabil-sector3/",
     "icon": "https://sites.google.com/view/expert-contabil-sector3/",
     "slug": "expert-contabil-sector-3-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 693,
-    "timeDay": 12008,
-    "timeWeek": 3145,
-    "timeMonth": 922,
-    "timeYear": 693,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 681,
+    "timeDay": 8047,
+    "timeWeek": 2810,
+    "timeMonth": 898,
+    "timeYear": 681,
     "dailyMinutesDown": {
-      "2022-11-10": 1
+      "2022-11-10": 13
     }
   },
   {
@@ -381,7 +381,7 @@
     "timeMonth": 0,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2022-11-10": 883,
+      "2022-11-10": 895,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
@@ -576,7 +576,7 @@
     "timeMonth": 0,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2022-11-10": 883,
+      "2022-11-10": 895,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
