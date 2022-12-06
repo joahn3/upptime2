@@ -1,7 +1,7 @@
 url: https://zametu.ro
-status: up
-code: 200
-responseTime: 532
-lastUpdated: 2022-12-05T23:12:59.274Z
+status: down
+code: 500
+responseTime: 3365
+lastUpdated: 2022-12-06T17:38:57.307Z
 startTime: Sun Feb 13 2022 03:23:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
