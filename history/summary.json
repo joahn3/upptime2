@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-12": 475,
+      "2023-01-12": 481,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
       "2023-01-09": 1440,
@@ -449,7 +449,7 @@
     "timeMonth": 0,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2023-01-12": 475,
+      "2023-01-12": 481,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
       "2023-01-09": 1440,
@@ -707,7 +707,7 @@
     "timeMonth": 0,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2023-01-12": 475,
+      "2023-01-12": 481,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
       "2023-01-09": 1440,
@@ -1184,19 +1184,19 @@
     "url": "https://bafficafe.ro",
     "icon": "https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png",
     "slug": "baffi-cafe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1477,
-    "timeDay": 1844,
-    "timeWeek": 1381,
-    "timeMonth": 1338,
+    "timeDay": 1638,
+    "timeWeek": 1388,
+    "timeMonth": 1340,
     "timeYear": 1477,
     "dailyMinutesDown": {
-      "2023-01-12": 1
+      "2023-01-12": 6
     }
   },
   {
