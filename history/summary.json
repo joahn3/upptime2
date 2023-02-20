@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-20": 955,
+      "2023-02-20": 960,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
@@ -370,7 +370,7 @@
     "uptime": "94.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "28.55%",
+    "uptimeMonth": "28.54%",
     "uptimeYear": "94.03%",
     "time": 1181,
     "timeDay": 0,
@@ -378,7 +378,7 @@
     "timeMonth": 586,
     "timeYear": 1169,
     "dailyMinutesDown": {
-      "2023-02-20": 956,
+      "2023-02-20": 961,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
@@ -519,7 +519,7 @@
     "timeMonth": 0,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2023-02-20": 956,
+      "2023-02-20": 961,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
@@ -816,7 +816,7 @@
     "timeMonth": 0,
     "timeYear": 850,
     "dailyMinutesDown": {
-      "2023-02-20": 956,
+      "2023-02-20": 961,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
@@ -1167,7 +1167,7 @@
     "timeMonth": 0,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2023-02-20": 956,
+      "2023-02-20": 961,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
@@ -1372,19 +1372,19 @@
     "url": "https://bafficafe.ro",
     "icon": "https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png",
     "slug": "baffi-cafe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1631,
-    "timeDay": 1662,
-    "timeWeek": 1256,
-    "timeMonth": 1714,
-    "timeYear": 1631,
+    "time": 1636,
+    "timeDay": 2051,
+    "timeWeek": 1404,
+    "timeMonth": 1737,
+    "timeYear": 1636,
     "dailyMinutesDown": {
-      "2023-02-20": 1
+      "2023-02-20": 5
     }
   },
   {
