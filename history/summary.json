@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-31": 1414,
+      "2023-03-31": 1419,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -412,7 +412,7 @@
     "timeMonth": 0,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2023-03-31": 1414,
+      "2023-03-31": 1419,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -592,7 +592,7 @@
     "timeMonth": 0,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2023-03-31": 1414,
+      "2023-03-31": 1419,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -928,7 +928,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-31": 1414,
+      "2023-03-31": 1420,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -1312,7 +1312,7 @@
     "timeMonth": 0,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2023-03-31": 1414,
+      "2023-03-31": 1420,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -1499,19 +1499,19 @@
     "url": "https://cursmodeling.ro",
     "icon": "https://www.cursmodeling.ro/wp-content/uploads/2022/07/curs-modeling-bold-models-school-logo.jpg",
     "slug": "bold-models",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
-    "time": 8873,
-    "timeDay": 8522,
-    "timeWeek": 9526,
-    "timeMonth": 9130,
-    "timeYear": 8873,
+    "time": 8871,
+    "timeDay": 8514,
+    "timeWeek": 9399,
+    "timeMonth": 9110,
+    "timeYear": 8871,
     "dailyMinutesDown": {
-      "2023-03-31": 1,
+      "2023-03-31": 5,
       "2022-11-04": 36,
       "2022-10-24": 39
     }
@@ -1561,9 +1561,9 @@
     "slug": "baffi-cafe",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "50.33%",
-    "uptimeWeek": "92.71%",
-    "uptimeMonth": "98.27%",
+    "uptimeDay": "49.96%",
+    "uptimeWeek": "92.66%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "99.72%",
     "time": 1692,
     "timeDay": 0,
@@ -1571,7 +1571,7 @@
     "timeMonth": 1800,
     "timeYear": 1692,
     "dailyMinutesDown": {
-      "2023-03-31": 715,
+      "2023-03-31": 721,
       "2023-03-29": 19,
       "2023-03-23": 25
     }
