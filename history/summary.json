@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-31": 1419,
+      "2023-04-01": 31,
+      "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -405,14 +406,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.26%",
+    "uptimeYear": "83.25%",
     "time": 1181,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2023-03-31": 1419,
+      "2023-04-01": 31,
+      "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -571,8 +573,7 @@
       "2022-05-04": 41,
       "2022-04-14": 36,
       "2022-04-10": 27,
-      "2022-04-04": 22,
-      "2022-04-01": 46
+      "2022-04-04": 22
     }
   },
   {
@@ -581,18 +582,19 @@
     "icon": "https://consilierjuridiconline.ro/content/images/size/w600/2022/02/logo-consilier_juridic-removebg-preview.png",
     "slug": "consilier-juridic-online-ro",
     "status": "down",
-    "uptime": "15.49%",
+    "uptime": "15.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "13.36%",
+    "uptimeYear": "13.35%",
     "time": 637,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2023-03-31": 1419,
+      "2023-04-01": 31,
+      "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -928,7 +930,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-31": 1420,
+      "2023-04-01": 31,
+      "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -1291,8 +1294,7 @@
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
-      "2022-04-02": 1440,
-      "2022-04-01": 1440
+      "2022-04-02": 1440
     }
   },
   {
@@ -1305,14 +1307,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.30%",
+    "uptimeYear": "79.29%",
     "time": 524,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2023-03-31": 1420,
+      "2023-04-01": 31,
+      "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -1501,9 +1504,9 @@
     "slug": "bold-models",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 8871,
     "timeDay": 8514,
@@ -1511,7 +1514,6 @@
     "timeMonth": 9110,
     "timeYear": 8871,
     "dailyMinutesDown": {
-      "2023-03-31": 5,
       "2022-11-04": 36,
       "2022-10-24": 39
     }
@@ -1560,18 +1562,19 @@
     "icon": "https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png",
     "slug": "baffi-cafe",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "49.96%",
-    "uptimeWeek": "92.66%",
-    "uptimeMonth": "98.25%",
-    "uptimeYear": "99.72%",
+    "uptime": "99.70%",
+    "uptimeDay": "46.36%",
+    "uptimeWeek": "92.15%",
+    "uptimeMonth": "98.14%",
+    "uptimeYear": "99.70%",
     "time": 1692,
     "timeDay": 0,
     "timeWeek": 1348,
     "timeMonth": 1800,
     "timeYear": 1692,
     "dailyMinutesDown": {
-      "2023-03-31": 721,
+      "2023-04-01": 32,
+      "2023-03-31": 741,
       "2023-03-29": 19,
       "2023-03-23": 25
     }
