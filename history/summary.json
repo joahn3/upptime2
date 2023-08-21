@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-20": 1431,
+      "2023-08-21": 26,
+      "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
@@ -385,8 +386,7 @@
     "timeMonth": 1085,
     "timeYear": 1137,
     "dailyMinutesDown": {
-      "2023-01-25": 31,
-      "2022-08-21": 64
+      "2023-01-25": 31
     }
   },
   {
@@ -529,18 +529,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/notarsector4.ro.ico",
     "slug": "notariat-sector-4",
     "status": "down",
-    "uptime": "63.33%",
+    "uptime": "63.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.36%",
+    "uptimeYear": "44.35%",
     "time": 1244,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1209,
     "dailyMinutesDown": {
-      "2023-08-20": 1431,
+      "2023-08-21": 26,
+      "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
@@ -796,7 +797,7 @@
     "icon": "https://consilierjuridiconline.ro/content/images/size/w600/2022/02/logo-consilier_juridic-removebg-preview.png",
     "slug": "consilier-juridic-online-ro",
     "status": "down",
-    "uptime": "11.23%",
+    "uptime": "11.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -807,7 +808,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-20": 1431,
+      "2023-08-21": 26,
+      "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
@@ -1170,8 +1172,7 @@
       "2022-08-25": 1440,
       "2022-08-24": 1440,
       "2022-08-23": 1440,
-      "2022-08-22": 1440,
-      "2022-08-21": 1440
+      "2022-08-22": 1440
     }
   },
   {
@@ -1180,7 +1181,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/parentalcontrol.ro.ico",
     "slug": "parental-control-romania",
     "status": "down",
-    "uptime": "7.64%",
+    "uptime": "7.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1191,7 +1192,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-20": 1431,
+      "2023-08-21": 26,
+      "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
@@ -1554,8 +1556,7 @@
       "2022-08-25": 1440,
       "2022-08-24": 1440,
       "2022-08-23": 1440,
-      "2022-08-22": 1440,
-      "2022-08-21": 1440
+      "2022-08-22": 1440
     }
   },
   {
@@ -1575,7 +1576,8 @@
     "timeMonth": 0,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2023-08-20": 1431,
+      "2023-08-21": 26,
+      "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
@@ -1904,18 +1906,19 @@
     "icon": "https://www.cursmodeling.ro/wp-content/uploads/2022/07/curs-modeling-bold-models-school-logo.jpg",
     "slug": "bold-models",
     "status": "down",
-    "uptime": "76.37%",
+    "uptime": "76.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.37%",
+    "uptimeYear": "76.36%",
     "time": 8975,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 8975,
     "dailyMinutesDown": {
-      "2023-08-20": 1432,
+      "2023-08-21": 26,
+      "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
@@ -2004,9 +2007,9 @@
     "slug": "security-and-telecom-systems",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.56%",
     "time": 2006,
     "timeDay": 1717,
@@ -2014,7 +2017,6 @@
     "timeMonth": 1726,
     "timeYear": 2006,
     "dailyMinutesDown": {
-      "2023-08-20": 11,
       "2023-07-25": 16,
       "2023-07-14": 228,
       "2023-07-10": 23,
