@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 1392,
+      "2023-08-26": 25,
+      "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -367,7 +368,7 @@
     "timeDay": 4916,
     "timeWeek": 3571,
     "timeMonth": 4144,
-    "timeYear": 4426,
+    "timeYear": 4423,
     "dailyMinutesDown": {
       "2023-08-25": 17,
       "2022-12-05": 16,
@@ -389,7 +390,7 @@
     "timeDay": 1124,
     "timeWeek": 1130,
     "timeMonth": 1107,
-    "timeYear": 1139,
+    "timeYear": 1140,
     "dailyMinutesDown": {
       "2023-01-25": 31
     }
@@ -409,7 +410,7 @@
     "timeDay": 2105,
     "timeWeek": 2387,
     "timeMonth": 2560,
-    "timeYear": 2413,
+    "timeYear": 2414,
     "dailyMinutesDown": {
       "2023-05-22": 50,
       "2023-04-26": 18,
@@ -513,7 +514,7 @@
     "timeDay": 3168,
     "timeWeek": 3511,
     "timeMonth": 3500,
-    "timeYear": 3448,
+    "timeYear": 3449,
     "dailyMinutesDown": {
       "2023-06-24": 127,
       "2023-06-23": 85,
@@ -536,14 +537,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.00%",
+    "uptimeYear": "42.98%",
     "time": 1241,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1217,
+    "timeYear": 1221,
     "dailyMinutesDown": {
-      "2023-08-25": 1392,
+      "2023-08-26": 25,
+      "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -789,7 +791,7 @@
     "timeDay": 616,
     "timeWeek": 549,
     "timeMonth": 529,
-    "timeYear": 760,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2022-12-28": 16,
       "2022-12-08": 21,
@@ -815,7 +817,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 1392,
+      "2023-08-26": 25,
+      "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -1178,8 +1181,7 @@
       "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
-      "2022-08-27": 1440,
-      "2022-08-26": 1440
+      "2022-08-27": 1440
     }
   },
   {
@@ -1199,7 +1201,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 1392,
+      "2023-08-26": 25,
+      "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -1562,8 +1565,7 @@
       "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
-      "2022-08-27": 1440,
-      "2022-08-26": 1440
+      "2022-08-27": 1440
     }
   },
   {
@@ -1576,14 +1578,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.03%",
+    "uptimeYear": "39.02%",
     "time": 488,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 555,
+    "timeYear": 557,
     "dailyMinutesDown": {
-      "2023-08-25": 1392,
+      "2023-08-26": 25,
+      "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -1917,18 +1920,19 @@
     "icon": "https://www.cursmodeling.ro/wp-content/uploads/2022/07/curs-modeling-bold-models-school-logo.jpg",
     "slug": "bold-models",
     "status": "down",
-    "uptime": "75.23%",
+    "uptime": "75.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.23%",
+    "uptimeYear": "75.22%",
     "time": 8975,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 8975,
     "dailyMinutesDown": {
-      "2023-08-25": 1392,
+      "2023-08-26": 25,
+      "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -2028,7 +2032,7 @@
     "uptimeYear": "99.57%",
     "time": 2014,
     "timeDay": 2120,
-    "timeWeek": 1961,
+    "timeWeek": 1992,
     "timeMonth": 1818,
     "timeYear": 2014,
     "dailyMinutesDown": {
