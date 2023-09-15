@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-15": 1153,
+      "2023-09-15": 1158,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
@@ -567,7 +567,7 @@
     "timeMonth": 0,
     "timeYear": 1153,
     "dailyMinutesDown": {
-      "2023-09-15": 1153,
+      "2023-09-15": 1158,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
@@ -827,15 +827,15 @@
     "uptime": "90.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.00%",
-    "uptimeYear": "96.56%",
+    "uptimeMonth": "58.99%",
+    "uptimeYear": "96.55%",
     "time": 767,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 505,
     "timeYear": 770,
     "dailyMinutesDown": {
-      "2023-09-15": 1153,
+      "2023-09-15": 1158,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
@@ -872,7 +872,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-15": 1153,
+      "2023-09-15": 1158,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
@@ -1256,7 +1256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-15": 1153,
+      "2023-09-15": 1158,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
@@ -1640,7 +1640,7 @@
     "timeMonth": 0,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2023-09-15": 1153,
+      "2023-09-15": 1158,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
@@ -1892,19 +1892,19 @@
     "url": "https://la-sulea.business.site",
     "icon": "https://icons.duckduckgo.com/ip3/la-sulea.business.site.ico",
     "slug": "restaurant-la-sulea",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 366,
-    "timeDay": 579,
-    "timeWeek": 406,
-    "timeMonth": 365,
+    "timeDay": 462,
+    "timeWeek": 399,
+    "timeMonth": 364,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2023-09-15": 1
+      "2023-09-15": 5
     }
   },
   {
@@ -2007,7 +2007,7 @@
     "timeMonth": 0,
     "timeYear": 8975,
     "dailyMinutesDown": {
-      "2023-09-15": 1154,
+      "2023-09-15": 1158,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
