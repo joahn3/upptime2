@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-06": 1305,
+      "2023-11-06": 1309,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
@@ -518,19 +518,19 @@
     "url": "https://sites.google.com/view/expert-contabil-sector3/",
     "icon": "https://sites.google.com/view/expert-contabil-sector3/",
     "slug": "expert-contabil-sector-3-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 162,
-    "timeWeek": 233,
-    "timeMonth": 215,
+    "time": 274,
+    "timeDay": 164,
+    "timeWeek": 225,
+    "timeMonth": 214,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2023-11-06": 2
+      "2023-11-06": 5
     }
   },
   {
@@ -579,7 +579,7 @@
     "timeMonth": 0,
     "timeYear": 1191,
     "dailyMinutesDown": {
-      "2023-11-06": 1305,
+      "2023-11-06": 1309,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
@@ -898,7 +898,7 @@
     "timeMonth": 0,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2023-11-06": 1305,
+      "2023-11-06": 1309,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
@@ -984,7 +984,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-06": 1305,
+      "2023-11-06": 1309,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
@@ -1368,7 +1368,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-06": 1305,
+      "2023-11-06": 1309,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
@@ -1752,7 +1752,7 @@
     "timeMonth": 0,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2023-11-06": 1305,
+      "2023-11-06": 1309,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
@@ -2157,14 +2157,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.40%",
+    "uptimeYear": "57.39%",
     "time": 8975,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 9149,
     "dailyMinutesDown": {
-      "2023-11-06": 1306,
+      "2023-11-06": 1309,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
