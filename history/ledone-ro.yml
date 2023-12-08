@@ -1,7 +1,7 @@
 url: https://ledone.ro/
-status: up
-code: 200
-responseTime: 3087
-lastUpdated: 2023-12-08T19:59:54.441Z
+status: down
+code: 500
+responseTime: 912
+lastUpdated: 2023-12-08T20:15:24.538Z
 startTime: 2022-09-26T09:29:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
