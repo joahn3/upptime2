@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-03": 1012,
+      "2024-01-03": 1019,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -457,10 +457,10 @@
     "url": "https://goodpc.ro",
     "icon": "https://icons.duckduckgo.com/ip3/goodpc.ro.ico",
     "slug": "good-pc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 625,
@@ -469,6 +469,7 @@
     "timeMonth": 392,
     "timeYear": 468,
     "dailyMinutesDown": {
+      "2024-01-03": 1,
       "2023-09-13": 29,
       "2023-09-12": 5,
       "2023-03-11": 31,
@@ -573,14 +574,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "7.19%",
+    "uptimeYear": "7.18%",
     "time": 1153,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2024-01-03": 1013,
+      "2024-01-03": 1019,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -957,7 +958,7 @@
     "timeMonth": 0,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2024-01-03": 1013,
+      "2024-01-03": 1019,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -1099,7 +1100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-03": 1013,
+      "2024-01-03": 1019,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -1483,7 +1484,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-03": 1013,
+      "2024-01-03": 1019,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -1867,7 +1868,7 @@
     "timeMonth": 0,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2024-01-03": 1013,
+      "2024-01-03": 1019,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -2266,18 +2267,16 @@
     "slug": "ionut-francisc-com-netlify-dev-version",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
     "timeDay": 1081,
     "timeWeek": 414,
     "timeMonth": 214,
     "timeYear": 181,
-    "dailyMinutesDown": {
-      "2024-01-03": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Firacode clients uptime monitoring",
@@ -2337,7 +2336,7 @@
     "timeMonth": 0,
     "timeYear": 9080,
     "dailyMinutesDown": {
-      "2024-01-03": 1013,
+      "2024-01-03": 1019,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
