@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-24": 332,
+      "2024-02-24": 337,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
@@ -577,7 +577,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-24": 333,
+      "2024-02-24": 337,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
@@ -949,19 +949,19 @@
     "url": "https://sites.google.com/view/notariatonline-ro",
     "icon": "https://icons.duckduckgo.com/ip3/sites.google.com.ico",
     "slug": "notariat-sector-4-google-version",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 8401,
-    "timeWeek": 2224,
-    "timeMonth": 664,
+    "timeDay": 5653,
+    "timeWeek": 1994,
+    "timeMonth": 649,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2024-02-24": 1
+      "2024-02-24": 5
     }
   },
   {
@@ -974,14 +974,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.36%",
+    "uptimeYear": "52.35%",
     "time": 739,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2024-02-24": 333,
+      "2024-02-24": 337,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
@@ -1175,7 +1175,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-24": 333,
+      "2024-02-24": 337,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
@@ -1559,7 +1559,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-24": 333,
+      "2024-02-24": 337,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
@@ -1943,7 +1943,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-24": 333,
+      "2024-02-24": 337,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
@@ -2420,7 +2420,7 @@
     "timeMonth": 0,
     "timeYear": 9253,
     "dailyMinutesDown": {
-      "2024-02-24": 333,
+      "2024-02-24": 337,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
