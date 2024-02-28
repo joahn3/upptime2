@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-28": 1271,
+      "2024-02-28": 1278,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
@@ -519,19 +519,19 @@
     "url": "https://sites.google.com/view/expert-contabil-sector3/",
     "icon": "https://sites.google.com/view/expert-contabil-sector3/",
     "slug": "expert-contabil-sector-3-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 13418,
-    "timeWeek": 3515,
-    "timeMonth": 1012,
-    "timeYear": 291,
+    "timeDay": 8990,
+    "timeWeek": 3139,
+    "timeMonth": 986,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2024-02-28": 2
+      "2024-02-28": 9
     }
   },
   {
@@ -579,7 +579,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-28": 1271,
+      "2024-02-28": 1278,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
@@ -951,19 +951,19 @@
     "url": "https://sites.google.com/view/notariatonline-ro",
     "icon": "https://icons.duckduckgo.com/ip3/sites.google.com.ico",
     "slug": "notariat-sector-4-google-version",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 205,
-    "timeWeek": 1992,
-    "timeMonth": 652,
+    "timeDay": 186,
+    "timeWeek": 1810,
+    "timeMonth": 638,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2024-02-28": 1
+      "2024-02-28": 7
     }
   },
   {
@@ -983,7 +983,7 @@
     "timeMonth": 0,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2024-02-28": 1271,
+      "2024-02-28": 1278,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
@@ -1181,7 +1181,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-28": 1271,
+      "2024-02-28": 1278,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
@@ -1565,7 +1565,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-28": 1271,
+      "2024-02-28": 1278,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
@@ -1949,7 +1949,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-28": 1271,
+      "2024-02-28": 1278,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
@@ -2426,7 +2426,7 @@
     "timeMonth": 0,
     "timeYear": 9265,
     "dailyMinutesDown": {
-      "2024-02-28": 1271,
+      "2024-02-28": 1278,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
