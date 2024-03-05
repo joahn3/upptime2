@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-05": 494,
+      "2024-03-05": 507,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
@@ -482,9 +482,9 @@
     "slug": "good-pc-google-version",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "87.51%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "86.62%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.96%",
     "time": 428,
     "timeDay": 327,
@@ -492,7 +492,7 @@
     "timeMonth": 309,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2024-03-05": 180,
+      "2024-03-05": 193,
       "2023-10-08": 28,
       "2023-10-07": 4
     }
@@ -504,9 +504,9 @@
     "slug": "ioana-hutter-contabil-sector-3-google-version",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "88.28%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "87.39%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.97%",
     "time": 343,
     "timeDay": 219,
@@ -514,7 +514,7 @@
     "timeMonth": 420,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2024-03-05": 169
+      "2024-03-05": 182
     }
   },
   {
@@ -580,7 +580,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-05": 494,
+      "2024-03-05": 507,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
@@ -975,14 +975,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "49.59%",
+    "uptimeYear": "49.58%",
     "time": 748,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2024-03-05": 494,
+      "2024-03-05": 507,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
@@ -1186,7 +1186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-05": 494,
+      "2024-03-05": 507,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
@@ -1570,7 +1570,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-05": 494,
+      "2024-03-05": 507,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
@@ -1954,7 +1954,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-05": 494,
+      "2024-03-05": 507,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
@@ -2328,17 +2328,17 @@
     "slug": "restaurant-la-sulea",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "87.50%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "86.61%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.96%",
     "time": 384,
     "timeDay": 351,
     "timeWeek": 395,
     "timeMonth": 317,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2024-03-05": 180
+      "2024-03-05": 193
     }
   },
   {
@@ -2433,7 +2433,7 @@
     "timeMonth": 0,
     "timeYear": 9219,
     "dailyMinutesDown": {
-      "2024-03-05": 495,
+      "2024-03-05": 507,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
@@ -2716,19 +2716,19 @@
     "url": "https://security-telecom.ro",
     "icon": "https://icons.duckduckgo.com/ip3/security-telecom.ro.ico",
     "slug": "security-and-telecom-systems",
-    "status": "down",
+    "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.75%",
-    "time": 2280,
-    "timeDay": 2225,
-    "timeWeek": 2302,
-    "timeMonth": 2229,
+    "time": 2282,
+    "timeDay": 2257,
+    "timeWeek": 2304,
+    "timeMonth": 2231,
     "timeYear": 2370,
     "dailyMinutesDown": {
-      "2024-03-05": 1,
+      "2024-03-05": 13,
       "2024-02-29": 15,
       "2024-02-23": 17,
       "2024-02-22": 16,
@@ -2792,9 +2792,9 @@
     "slug": "baffi-cafe-google-version",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "9.28%",
-    "uptimeWeek": "87.04%",
-    "uptimeMonth": "96.98%",
+    "uptimeDay": "8.39%",
+    "uptimeWeek": "86.91%",
+    "uptimeMonth": "96.95%",
     "uptimeYear": "99.74%",
     "time": 397,
     "timeDay": 0,
@@ -2802,7 +2802,7 @@
     "timeMonth": 337,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2024-03-05": 495,
+      "2024-03-05": 507,
       "2024-03-04": 812,
       "2024-02-15": 17,
       "2023-10-08": 29,
