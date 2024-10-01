@@ -8,7 +8,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 1398,
+      "2024-10-01": 42,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -379,8 +380,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -397,7 +397,7 @@
     "time": 4293,
     "timeDay": 2257,
     "timeWeek": 4143,
-    "timeMonth": 4875,
+    "timeMonth": 4848,
     "timeYear": 4424,
     "dailyMinutesDown": {
       "2024-09-10": 16,
@@ -422,7 +422,7 @@
     "time": 1084,
     "timeDay": 858,
     "timeWeek": 1027,
-    "timeMonth": 1088,
+    "timeMonth": 1078,
     "timeYear": 1081,
     "dailyMinutesDown": {
       "2024-06-28": 248,
@@ -448,7 +448,7 @@
     "time": 2449,
     "timeDay": 2091,
     "timeWeek": 2286,
-    "timeMonth": 2456,
+    "timeMonth": 2435,
     "timeYear": 2471,
     "dailyMinutesDown": {
       "2024-06-28": 248,
@@ -476,7 +476,7 @@
     "time": 440,
     "timeDay": 489,
     "timeWeek": 428,
-    "timeMonth": 535,
+    "timeMonth": 538,
     "timeYear": 437,
     "dailyMinutesDown": {
       "2024-08-10": 211,
@@ -494,18 +494,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/good-pc.business.site.ico",
     "slug": "good-pc-google-version",
     "status": "down",
-    "uptime": "78.17%",
+    "uptime": "78.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "42.53%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "42.51%",
     "time": 402,
     "timeDay": 184,
     "timeWeek": 221,
     "timeMonth": 220,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2024-09-30": 1398,
+      "2024-10-01": 42,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -728,15 +729,16 @@
     "uptime": "71.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "42.54%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "42.52%",
     "time": 306,
     "timeDay": 237,
     "timeWeek": 224,
-    "timeMonth": 240,
+    "timeMonth": 233,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2024-09-30": 1398,
+      "2024-10-01": 42,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -962,7 +964,7 @@
     "time": 286,
     "timeDay": 164,
     "timeWeek": 193,
-    "timeMonth": 592,
+    "timeMonth": 604,
     "timeYear": 299,
     "dailyMinutesDown": {}
   },
@@ -980,7 +982,7 @@
     "time": 3551,
     "timeDay": 3109,
     "timeWeek": 3519,
-    "timeMonth": 3587,
+    "timeMonth": 3557,
     "timeYear": 3587,
     "dailyMinutesDown": {
       "2024-06-28": 248,
@@ -1004,7 +1006,7 @@
     "uptime": "36.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1012,7 +1014,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 1399,
+      "2024-10-01": 42,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -1375,8 +1378,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -1406,7 +1408,7 @@
     "uptime": "54.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 487,
     "timeDay": 0,
@@ -1414,7 +1416,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 1399,
+      "2024-10-01": 42,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -1777,8 +1780,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -1790,7 +1792,7 @@
     "uptime": "6.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1798,7 +1800,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 1399,
+      "2024-10-01": 42,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -2161,8 +2164,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -2174,7 +2176,7 @@
     "uptime": "4.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -2182,7 +2184,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 1399,
+      "2024-10-01": 42,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -2545,8 +2548,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -2558,7 +2560,7 @@
     "uptime": "34.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -2566,7 +2568,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 1399,
+      "2024-10-01": 42,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -2929,8 +2932,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -2939,18 +2941,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/la-sulea.business.site.ico",
     "slug": "restaurant-la-sulea",
     "status": "down",
-    "uptime": "78.17%",
+    "uptime": "78.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "42.53%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "42.52%",
     "time": 336,
     "timeDay": 249,
     "timeWeek": 225,
-    "timeMonth": 228,
+    "timeMonth": 226,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2024-09-30": 1399,
+      "2024-10-01": 42,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -3176,7 +3179,7 @@
     "time": 103,
     "timeDay": 80,
     "timeWeek": 111,
-    "timeMonth": 107,
+    "timeMonth": 109,
     "timeYear": 104,
     "dailyMinutesDown": {}
   },
@@ -3194,7 +3197,7 @@
     "time": 157,
     "timeDay": 65,
     "timeWeek": 130,
-    "timeMonth": 215,
+    "timeMonth": 221,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -3212,7 +3215,7 @@
     "time": 92,
     "timeDay": 63,
     "timeWeek": 103,
-    "timeMonth": 107,
+    "timeMonth": 106,
     "timeYear": 84,
     "dailyMinutesDown": {}
   },
@@ -3230,7 +3233,7 @@
     "time": 4500,
     "timeDay": 4392,
     "timeWeek": 4622,
-    "timeMonth": 5148,
+    "timeMonth": 5132,
     "timeYear": 4672,
     "dailyMinutesDown": {
       "2024-05-06": 1174,
@@ -3251,10 +3254,10 @@
     "icon": "https://www.cursmodeling.ro/wp-content/uploads/2022/07/curs-modeling-bold-models-school-logo.jpg",
     "slug": "bold-models",
     "status": "down",
-    "uptime": "34.12%",
+    "uptime": "34.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 9833,
     "timeDay": 0,
@@ -3262,7 +3265,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 1399,
+      "2024-10-01": 42,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -3625,8 +3629,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -3636,9 +3639,9 @@
     "slug": "security-and-telecom-systems",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "97.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "97.42%",
     "uptimeYear": "99.45%",
     "time": 2081,
     "timeDay": 1693,
@@ -3646,7 +3649,6 @@
     "timeMonth": 1825,
     "timeYear": 2095,
     "dailyMinutesDown": {
-      "2024-09-30": 4,
       "2024-09-27": 18,
       "2024-09-26": 18,
       "2024-09-25": 53,
@@ -3718,7 +3720,8 @@
       "2024-05-15": 38,
       "2024-05-14": 15,
       "2024-05-03": 32,
-      "2024-05-02": 21
+      "2024-05-02": 21,
+      "2024-05-01": 17
     }
   },
   {
@@ -3735,7 +3738,7 @@
     "time": 1457,
     "timeDay": 1313,
     "timeWeek": 1292,
-    "timeMonth": 1440,
+    "timeMonth": 1389,
     "timeYear": 1415,
     "dailyMinutesDown": {
       "2024-04-01": 641,
@@ -3749,18 +3752,19 @@
     "icon": "https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png",
     "slug": "baffi-cafe-google-version",
     "status": "down",
-    "uptime": "71.37%",
+    "uptime": "71.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "42.31%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "42.29%",
     "time": 346,
     "timeDay": 182,
     "timeWeek": 221,
     "timeMonth": 214,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2024-09-30": 1399,
+      "2024-10-01": 42,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
