@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-22": 262,
+      "2024-10-22": 279,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -505,7 +505,7 @@
     "timeMonth": 224,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2024-10-22": 262,
+      "2024-10-22": 279,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -756,7 +756,7 @@
     "timeMonth": 228,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2024-10-22": 262,
+      "2024-10-22": 279,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -1044,7 +1044,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/notarsector4.ro.ico",
     "slug": "notariat-sector-4",
     "status": "down",
-    "uptime": "35.72%",
+    "uptime": "35.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1055,7 +1055,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-22": 262,
+      "2024-10-22": 279,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -1457,7 +1457,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-22": 262,
+      "2024-10-22": 279,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -1841,7 +1841,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-22": 262,
+      "2024-10-22": 279,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -2225,7 +2225,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-22": 262,
+      "2024-10-22": 279,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -2609,7 +2609,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-22": 262,
+      "2024-10-22": 279,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -2993,7 +2993,7 @@
     "timeMonth": 229,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2024-10-22": 262,
+      "2024-10-22": 279,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -3232,19 +3232,19 @@
     "url": "https://floriana-pliundra-website.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/floriana-pliundra-website.vercel.app.ico",
     "slug": "profesor-floriana-pliundra",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 154,
-    "timeWeek": 171,
-    "timeMonth": 137,
+    "timeDay": 111,
+    "timeWeek": 158,
+    "timeMonth": 135,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2024-10-22": 1
+      "2024-10-22": 17
     }
   },
   {
@@ -3328,7 +3328,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-22": 263,
+      "2024-10-22": 279,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -3820,7 +3820,7 @@
     "timeMonth": 219,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2024-10-22": 263,
+      "2024-10-22": 279,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
