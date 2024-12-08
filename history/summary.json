@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-08": 548,
+      "2024-12-08": 575,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
@@ -390,9 +390,9 @@
     "slug": "chic-roumaine",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 4334,
     "timeDay": 5341,
@@ -400,7 +400,6 @@
     "timeMonth": 4582,
     "timeYear": 4484,
     "dailyMinutesDown": {
-      "2024-12-08": 13,
       "2024-09-10": 16,
       "2024-08-08": 25,
       "2024-04-13": 114,
@@ -505,7 +504,7 @@
     "timeMonth": 235,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2024-12-08": 548,
+      "2024-12-08": 575,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
@@ -803,7 +802,7 @@
     "timeMonth": 210,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2024-12-08": 548,
+      "2024-12-08": 575,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
@@ -1149,7 +1148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-08": 548,
+      "2024-12-08": 575,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
@@ -1551,7 +1550,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-08": 548,
+      "2024-12-08": 575,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
@@ -1935,7 +1934,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-08": 548,
+      "2024-12-08": 575,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
@@ -2319,7 +2318,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-08": 548,
+      "2024-12-08": 575,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
@@ -2692,7 +2691,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wesecureweb.dev.ico",
     "slug": "we-secure-web-dev",
     "status": "down",
-    "uptime": "32.67%",
+    "uptime": "32.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2703,7 +2702,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-08": 548,
+      "2024-12-08": 575,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
@@ -3087,7 +3086,7 @@
     "timeMonth": 215,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2024-12-08": 548,
+      "2024-12-08": 576,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
@@ -3469,7 +3468,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-08": 548,
+      "2024-12-08": 576,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
@@ -3841,19 +3840,19 @@
     "url": "https://security-telecom.ro",
     "icon": "https://icons.duckduckgo.com/ip3/security-telecom.ro.ico",
     "slug": "security-and-telecom-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "88.83%",
-    "uptimeWeek": "89.58%",
-    "uptimeMonth": "94.89%",
+    "uptimeDay": "89.13%",
+    "uptimeWeek": "89.57%",
+    "uptimeMonth": "94.88%",
     "uptimeYear": "99.53%",
     "time": 1987,
-    "timeDay": 2008,
+    "timeDay": 1994,
     "timeWeek": 1766,
     "timeMonth": 1744,
     "timeYear": 1965,
     "dailyMinutesDown": {
-      "2024-12-08": 86,
+      "2024-12-08": 87,
       "2024-12-07": 85,
       "2024-12-06": 128,
       "2024-12-05": 125,
@@ -3886,7 +3885,7 @@
       "2024-11-05": 22,
       "2024-11-04": 23,
       "2024-11-03": 53,
-      "2024-11-02": 38
+      "2024-11-02": 18
     }
   },
   {
@@ -3917,7 +3916,7 @@
     "icon": "https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png",
     "slug": "baffi-cafe-google-version",
     "status": "down",
-    "uptime": "65.30%",
+    "uptime": "65.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -3928,7 +3927,7 @@
     "timeMonth": 220,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2024-12-08": 548,
+      "2024-12-08": 576,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
