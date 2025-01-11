@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-11": 207,
+      "2025-01-11": 233,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
@@ -502,7 +502,7 @@
     "timeMonth": 237,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-01-11": 207,
+      "2025-01-11": 233,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
@@ -834,7 +834,7 @@
     "timeMonth": 210,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-01-11": 207,
+      "2025-01-11": 233,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
@@ -1212,7 +1212,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-11": 207,
+      "2025-01-11": 233,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
@@ -1614,7 +1614,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-11": 207,
+      "2025-01-11": 233,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
@@ -1998,7 +1998,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-11": 207,
+      "2025-01-11": 233,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
@@ -2382,7 +2382,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-11": 207,
+      "2025-01-11": 233,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
@@ -2766,7 +2766,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-11": 207,
+      "2025-01-11": 233,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
@@ -3139,7 +3139,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/la-sulea.business.site.ico",
     "slug": "restaurant-la-sulea",
     "status": "down",
-    "uptime": "70.66%",
+    "uptime": "70.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3150,7 +3150,7 @@
     "timeMonth": 230,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-01-11": 207,
+      "2025-01-11": 233,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
@@ -3556,7 +3556,7 @@
     "icon": "https://www.cursmodeling.ro/wp-content/uploads/2022/07/curs-modeling-bold-models-school-logo.jpg",
     "slug": "bold-models",
     "status": "down",
-    "uptime": "29.96%",
+    "uptime": "29.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3567,7 +3567,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-11": 207,
+      "2025-01-11": 233,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
@@ -3939,19 +3939,19 @@
     "url": "https://security-telecom.ro",
     "icon": "https://icons.duckduckgo.com/ip3/security-telecom.ro.ico",
     "slug": "security-and-telecom-systems",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "72.37%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "72.59%",
     "uptimeWeek": "81.13%",
-    "uptimeMonth": "93.79%",
-    "uptimeYear": "99.48%",
+    "uptimeMonth": "93.83%",
+    "uptimeYear": "99.49%",
     "time": 1945,
-    "timeDay": 2187,
-    "timeWeek": 2020,
+    "timeDay": 2172,
+    "timeWeek": 2021,
     "timeMonth": 1849,
     "timeYear": 1906,
     "dailyMinutesDown": {
-      "2025-01-11": 24,
+      "2025-01-11": 25,
       "2025-01-10": 398,
       "2025-01-09": 409,
       "2025-01-08": 511,
@@ -3968,7 +3968,7 @@
       "2024-12-28": 117,
       "2024-12-27": 114,
       "2024-12-23": 34,
-      "2024-12-22": 38
+      "2024-12-22": 20
     }
   },
   {
@@ -4010,7 +4010,7 @@
     "timeMonth": 253,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-01-11": 208,
+      "2025-01-11": 233,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
