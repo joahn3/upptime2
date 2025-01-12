@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-12": 1393,
+      "2025-01-12": 1397,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -397,7 +397,7 @@
     "time": 4376,
     "timeDay": 5109,
     "timeWeek": 4649,
-    "timeMonth": 4636,
+    "timeMonth": 4542,
     "timeYear": 4500,
     "dailyMinutesDown": {
       "2024-12-08": 32,
@@ -420,7 +420,7 @@
     "time": 1082,
     "timeDay": 875,
     "timeWeek": 1066,
-    "timeMonth": 1064,
+    "timeMonth": 1057,
     "timeYear": 1073,
     "dailyMinutesDown": {
       "2024-12-04": 213,
@@ -446,7 +446,7 @@
     "time": 2474,
     "timeDay": 2257,
     "timeWeek": 2502,
-    "timeMonth": 2543,
+    "timeMonth": 2539,
     "timeYear": 2470,
     "dailyMinutesDown": {
       "2024-12-04": 191,
@@ -499,10 +499,10 @@
     "time": 355,
     "timeDay": 196,
     "timeWeek": 206,
-    "timeMonth": 237,
+    "timeMonth": 238,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-01-12": 1393,
+      "2025-01-12": 1397,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -835,7 +835,7 @@
     "timeMonth": 212,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-01-12": 1393,
+      "2025-01-12": 1397,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -1165,7 +1165,7 @@
     "time": 271,
     "timeDay": 149,
     "timeWeek": 157,
-    "timeMonth": 179,
+    "timeMonth": 178,
     "timeYear": 294,
     "dailyMinutesDown": {}
   },
@@ -1183,7 +1183,7 @@
     "time": 3598,
     "timeDay": 3287,
     "timeWeek": 3489,
-    "timeMonth": 3511,
+    "timeMonth": 3498,
     "timeYear": 3608,
     "dailyMinutesDown": {
       "2024-12-04": 139,
@@ -1214,7 +1214,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-12": 1394,
+      "2025-01-12": 1397,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -1595,7 +1595,7 @@
     "time": 177,
     "timeDay": 92,
     "timeWeek": 109,
-    "timeMonth": 116,
+    "timeMonth": 115,
     "timeYear": 180,
     "dailyMinutesDown": {}
   },
@@ -1616,7 +1616,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-12": 1394,
+      "2025-01-12": 1397,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -2000,7 +2000,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-12": 1394,
+      "2025-01-12": 1397,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -2384,7 +2384,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-12": 1394,
+      "2025-01-12": 1397,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -2768,7 +2768,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-12": 1394,
+      "2025-01-12": 1397,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -3141,7 +3141,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/la-sulea.business.site.ico",
     "slug": "restaurant-la-sulea",
     "status": "down",
-    "uptime": "70.54%",
+    "uptime": "70.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3152,7 +3152,7 @@
     "timeMonth": 230,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-01-12": 1394,
+      "2025-01-12": 1397,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -3482,7 +3482,7 @@
     "time": 108,
     "timeDay": 131,
     "timeWeek": 124,
-    "timeMonth": 95,
+    "timeMonth": 97,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2024-10-22": 17
@@ -3502,7 +3502,7 @@
     "time": 157,
     "timeDay": 88,
     "timeWeek": 100,
-    "timeMonth": 107,
+    "timeMonth": 109,
     "timeYear": 155,
     "dailyMinutesDown": {}
   },
@@ -3520,7 +3520,7 @@
     "time": 85,
     "timeDay": 63,
     "timeWeek": 87,
-    "timeMonth": 89,
+    "timeMonth": 91,
     "timeYear": 86,
     "dailyMinutesDown": {}
   },
@@ -3538,7 +3538,7 @@
     "time": 4641,
     "timeDay": 3573,
     "timeWeek": 3863,
-    "timeMonth": 4657,
+    "timeMonth": 4654,
     "timeYear": 4980,
     "dailyMinutesDown": {
       "2025-01-10": 16,
@@ -3570,7 +3570,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-12": 1394,
+      "2025-01-12": 1397,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -3942,19 +3942,19 @@
     "url": "https://security-telecom.ro",
     "icon": "https://icons.duckduckgo.com/ip3/security-telecom.ro.ico",
     "slug": "security-and-telecom-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "54.54%",
-    "uptimeWeek": "71.74%",
-    "uptimeMonth": "92.77%",
+    "uptimeDay": "54.51%",
+    "uptimeWeek": "71.73%",
+    "uptimeMonth": "92.83%",
     "uptimeYear": "99.40%",
     "time": 1967,
-    "timeDay": 2219,
+    "timeDay": 2222,
     "timeWeek": 2200,
-    "timeMonth": 1877,
+    "timeMonth": 1875,
     "timeYear": 1912,
     "dailyMinutesDown": {
-      "2025-01-12": 637,
+      "2025-01-12": 638,
       "2025-01-11": 459,
       "2025-01-10": 398,
       "2025-01-09": 409,
@@ -3965,7 +3965,7 @@
       "2025-01-04": 60,
       "2025-01-03": 33,
       "2025-01-02": 129,
-      "2025-01-01": 29
+      "2025-01-01": 3
     }
   },
   {
@@ -3980,9 +3980,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 1391,
-    "timeDay": 1230,
+    "timeDay": 1162,
     "timeWeek": 1343,
-    "timeMonth": 1333,
+    "timeMonth": 1324,
     "timeYear": 1356,
     "dailyMinutesDown": {
       "2024-04-01": 641,
@@ -4004,10 +4004,10 @@
     "time": 298,
     "timeDay": 251,
     "timeWeek": 218,
-    "timeMonth": 255,
+    "timeMonth": 257,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-01-12": 1394,
+      "2025-01-12": 1398,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
