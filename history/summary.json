@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-17": 917,
+      "2025-01-17": 937,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -503,7 +503,7 @@
     "timeMonth": 226,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-01-17": 917,
+      "2025-01-17": 937,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -841,7 +841,7 @@
     "timeMonth": 212,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-01-17": 917,
+      "2025-01-17": 937,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -1226,7 +1226,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-17": 918,
+      "2025-01-17": 937,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -1617,7 +1617,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zametu.ro.ico",
     "slug": "zametu",
     "status": "down",
-    "uptime": "48.94%",
+    "uptime": "48.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1628,7 +1628,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-17": 918,
+      "2025-01-17": 937,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -2012,7 +2012,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-17": 918,
+      "2025-01-17": 937,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -2396,7 +2396,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-17": 918,
+      "2025-01-17": 937,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -2780,7 +2780,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-17": 918,
+      "2025-01-17": 937,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -3164,7 +3164,7 @@
     "timeMonth": 227,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-01-17": 918,
+      "2025-01-17": 937,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -3576,7 +3576,7 @@
     "icon": "https://www.cursmodeling.ro/wp-content/uploads/2022/07/curs-modeling-bold-models-school-logo.jpg",
     "slug": "bold-models",
     "status": "down",
-    "uptime": "29.73%",
+    "uptime": "29.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3587,7 +3587,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-17": 918,
+      "2025-01-17": 938,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -3959,26 +3959,26 @@
     "url": "https://security-telecom.ro",
     "icon": "https://icons.duckduckgo.com/ip3/security-telecom.ro.ico",
     "slug": "security-and-telecom-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "63.64%",
-    "uptimeWeek": "67.86%",
-    "uptimeMonth": "92.19%",
+    "uptimeDay": "64.21%",
+    "uptimeWeek": "67.85%",
+    "uptimeMonth": "92.23%",
     "uptimeYear": "99.35%",
     "time": 1952,
-    "timeDay": 1487,
-    "timeWeek": 2056,
-    "timeMonth": 1876,
+    "timeDay": 1465,
+    "timeWeek": 2055,
+    "timeMonth": 1875,
     "timeYear": 1908,
     "dailyMinutesDown": {
-      "2025-01-17": 363,
+      "2025-01-17": 364,
       "2025-01-16": 473,
       "2025-01-15": 331,
       "2025-01-14": 343,
       "2025-01-13": 418,
       "2025-01-12": 667,
       "2025-01-11": 459,
-      "2025-01-10": 372
+      "2025-01-10": 352
     }
   },
   {
@@ -4020,7 +4020,7 @@
     "timeMonth": 255,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-01-17": 918,
+      "2025-01-17": 938,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
