@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 380,
+      "2025-01-30": 413,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -503,7 +503,7 @@
     "timeMonth": 226,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2025-01-30": 380,
+      "2025-01-30": 413,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -843,7 +843,7 @@
     "icon": "https://expert-contabil-sector3.business.site/",
     "slug": "ioana-hutter-contabil-sector-3-google-version",
     "status": "down",
-    "uptime": "61.37%",
+    "uptime": "61.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -854,7 +854,7 @@
     "timeMonth": 221,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2025-01-30": 380,
+      "2025-01-30": 413,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -1252,7 +1252,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 381,
+      "2025-01-30": 414,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -1654,7 +1654,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 381,
+      "2025-01-30": 414,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -2038,7 +2038,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 381,
+      "2025-01-30": 414,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -2422,7 +2422,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 381,
+      "2025-01-30": 414,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -2806,7 +2806,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 381,
+      "2025-01-30": 414,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -3190,7 +3190,7 @@
     "timeMonth": 246,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-01-30": 381,
+      "2025-01-30": 414,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -3628,7 +3628,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 381,
+      "2025-01-30": 414,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -4000,19 +4000,19 @@
     "url": "https://security-telecom.ro",
     "icon": "https://icons.duckduckgo.com/ip3/security-telecom.ro.ico",
     "slug": "security-and-telecom-systems",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "78.55%",
-    "uptimeWeek": "83.27%",
-    "uptimeMonth": "93.60%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "80.23%",
+    "uptimeWeek": "83.26%",
+    "uptimeMonth": "93.68%",
     "uptimeYear": "99.47%",
     "time": 1934,
-    "timeDay": 1694,
-    "timeWeek": 2096,
-    "timeMonth": 1874,
+    "timeDay": 1655,
+    "timeWeek": 2092,
+    "timeMonth": 1873,
     "timeYear": 1894,
     "dailyMinutesDown": {
-      "2025-01-30": 22,
+      "2025-01-30": 23,
       "2025-01-29": 366,
       "2025-01-28": 153,
       "2025-01-27": 157,
@@ -4023,7 +4023,7 @@
       "2025-01-22": 291,
       "2025-01-21": 282,
       "2025-01-20": 379,
-      "2025-01-19": 73
+      "2025-01-19": 40
     }
   },
   {
@@ -4054,7 +4054,7 @@
     "icon": "https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png",
     "slug": "baffi-cafe-google-version",
     "status": "down",
-    "uptime": "61.27%",
+    "uptime": "61.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -4065,7 +4065,7 @@
     "timeMonth": 221,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-01-30": 381,
+      "2025-01-30": 414,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
