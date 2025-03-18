@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 40,
+      "2025-03-18": 186,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -490,7 +490,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/good-pc.business.site.ico",
     "slug": "good-pc-google-version",
     "status": "down",
-    "uptime": "66.53%",
+    "uptime": "66.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -501,7 +501,7 @@
     "timeMonth": 242,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-03-18": 40,
+      "2025-03-18": 186,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -874,7 +874,7 @@
     "icon": "https://expert-contabil-sector3.business.site/",
     "slug": "ioana-hutter-contabil-sector-3-google-version",
     "status": "down",
-    "uptime": "58.19%",
+    "uptime": "58.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -885,7 +885,7 @@
     "timeMonth": 237,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-03-18": 40,
+      "2025-03-18": 186,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -1317,7 +1317,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 40,
+      "2025-03-18": 186,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -1719,7 +1719,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 41,
+      "2025-03-18": 186,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -2103,7 +2103,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 41,
+      "2025-03-18": 186,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -2487,7 +2487,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 41,
+      "2025-03-18": 186,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -2871,7 +2871,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 41,
+      "2025-03-18": 186,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -3255,7 +3255,7 @@
     "timeMonth": 237,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-03-18": 41,
+      "2025-03-18": 186,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -3737,7 +3737,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 41,
+      "2025-03-18": 187,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -4109,18 +4109,19 @@
     "url": "https://security-telecom.ro",
     "icon": "https://icons.duckduckgo.com/ip3/security-telecom.ro.ico",
     "slug": "security-and-telecom-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "92.48%",
-    "uptimeWeek": "90.59%",
-    "uptimeMonth": "93.51%",
+    "uptimeDay": "93.01%",
+    "uptimeWeek": "91.08%",
+    "uptimeMonth": "93.56%",
     "uptimeYear": "99.46%",
     "time": 1871,
-    "timeDay": 1439,
-    "timeWeek": 1732,
-    "timeMonth": 1894,
+    "timeDay": 1409,
+    "timeWeek": 1724,
+    "timeMonth": 1893,
     "timeYear": 1860,
     "dailyMinutesDown": {
+      "2025-03-18": 1,
       "2025-03-17": 149,
       "2025-03-16": 102,
       "2025-03-15": 31,
@@ -4139,7 +4140,7 @@
       "2025-03-02": 249,
       "2025-03-01": 276,
       "2025-02-28": 139,
-      "2025-02-27": 43
+      "2025-02-27": 18
     }
   },
   {
@@ -4181,7 +4182,7 @@
     "timeMonth": 221,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-03-18": 41,
+      "2025-03-18": 187,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
