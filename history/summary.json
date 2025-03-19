@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-19": 190,
+      "2025-03-19": 299,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -501,7 +501,7 @@
     "timeMonth": 243,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-03-19": 190,
+      "2025-03-19": 300,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -874,7 +874,7 @@
     "icon": "https://expert-contabil-sector3.business.site/",
     "slug": "ioana-hutter-contabil-sector-3-google-version",
     "status": "down",
-    "uptime": "58.12%",
+    "uptime": "58.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -885,7 +885,7 @@
     "timeMonth": 239,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-03-19": 190,
+      "2025-03-19": 300,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -1317,7 +1317,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-19": 190,
+      "2025-03-19": 300,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -1708,7 +1708,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zametu.ro.ico",
     "slug": "zametu",
     "status": "down",
-    "uptime": "46.32%",
+    "uptime": "46.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1719,7 +1719,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-19": 191,
+      "2025-03-19": 300,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -2103,7 +2103,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-19": 191,
+      "2025-03-19": 300,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -2487,7 +2487,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-19": 191,
+      "2025-03-19": 300,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -2871,7 +2871,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-19": 191,
+      "2025-03-19": 300,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -3244,7 +3244,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/la-sulea.business.site.ico",
     "slug": "restaurant-la-sulea",
     "status": "down",
-    "uptime": "66.47%",
+    "uptime": "66.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -3255,7 +3255,7 @@
     "timeMonth": 241,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-03-19": 191,
+      "2025-03-19": 300,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -3737,7 +3737,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-19": 191,
+      "2025-03-19": 300,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -4109,19 +4109,19 @@
     "url": "https://security-telecom.ro",
     "icon": "https://icons.duckduckgo.com/ip3/security-telecom.ro.ico",
     "slug": "security-and-telecom-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "92.46%",
-    "uptimeWeek": "91.24%",
-    "uptimeMonth": "93.54%",
+    "uptimeDay": "94.13%",
+    "uptimeWeek": "91.64%",
+    "uptimeMonth": "93.57%",
     "uptimeYear": "99.46%",
     "time": 1869,
-    "timeDay": 1650,
-    "timeWeek": 1686,
-    "timeMonth": 1861,
+    "timeDay": 1595,
+    "timeWeek": 1677,
+    "timeMonth": 1857,
     "timeYear": 1859,
     "dailyMinutesDown": {
-      "2025-03-19": 37,
+      "2025-03-19": 38,
       "2025-03-18": 77,
       "2025-03-17": 149,
       "2025-03-16": 102,
@@ -4140,7 +4140,7 @@
       "2025-03-03": 58,
       "2025-03-02": 249,
       "2025-03-01": 276,
-      "2025-02-28": 55
+      "2025-02-28": 40
     }
   },
   {
@@ -4182,7 +4182,7 @@
     "timeMonth": 222,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-03-19": 191,
+      "2025-03-19": 301,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
