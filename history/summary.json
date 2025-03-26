@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 1052,
+      "2025-03-26": 1150,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -502,7 +502,7 @@
     "timeMonth": 247,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-03-26": 1052,
+      "2025-03-26": 1150,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -886,7 +886,7 @@
     "timeMonth": 245,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-03-26": 1053,
+      "2025-03-26": 1150,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -1318,7 +1318,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 1053,
+      "2025-03-26": 1150,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -1709,7 +1709,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zametu.ro.ico",
     "slug": "zametu",
     "status": "down",
-    "uptime": "46.01%",
+    "uptime": "46.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1720,7 +1720,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 1053,
+      "2025-03-26": 1150,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -2104,7 +2104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 1053,
+      "2025-03-26": 1150,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -2488,7 +2488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 1053,
+      "2025-03-26": 1150,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -2872,7 +2872,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 1053,
+      "2025-03-26": 1150,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -3256,7 +3256,7 @@
     "timeMonth": 237,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-03-26": 1053,
+      "2025-03-26": 1150,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -3694,7 +3694,7 @@
     "uptimeYear": "97.99%",
     "time": 4593,
     "timeDay": 4605,
-    "timeWeek": 3953,
+    "timeWeek": 3983,
     "timeMonth": 3928,
     "timeYear": 4921,
     "dailyMinutesDown": {
@@ -3729,7 +3729,7 @@
     "icon": "https://www.cursmodeling.ro/wp-content/uploads/2022/07/curs-modeling-bold-models-school-logo.jpg",
     "slug": "bold-models",
     "status": "down",
-    "uptime": "27.51%",
+    "uptime": "27.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -3740,7 +3740,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 1053,
+      "2025-03-26": 1150,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -4112,19 +4112,19 @@
     "url": "https://security-telecom.ro",
     "icon": "https://icons.duckduckgo.com/ip3/security-telecom.ro.ico",
     "slug": "security-and-telecom-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "89.20%",
-    "uptimeWeek": "89.24%",
-    "uptimeMonth": "93.73%",
+    "uptimeDay": "89.14%",
+    "uptimeWeek": "89.23%",
+    "uptimeMonth": "93.79%",
     "uptimeYear": "99.48%",
     "time": 1859,
-    "timeDay": 1942,
-    "timeWeek": 1687,
-    "timeMonth": 1739,
-    "timeYear": 1852,
+    "timeDay": 1864,
+    "timeWeek": 1688,
+    "timeMonth": 1737,
+    "timeYear": 1851,
     "dailyMinutesDown": {
-      "2025-03-26": 140,
+      "2025-03-26": 141,
       "2025-03-25": 174,
       "2025-03-24": 97,
       "2025-03-23": 271,
@@ -4143,7 +4143,7 @@
       "2025-03-10": 135,
       "2025-03-09": 186,
       "2025-03-08": 45,
-      "2025-03-07": 106
+      "2025-03-07": 77
     }
   },
   {
@@ -4185,7 +4185,7 @@
     "timeMonth": 219,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-03-26": 1053,
+      "2025-03-26": 1151,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
