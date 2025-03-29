@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 977,
+      "2025-03-29": 1093,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -502,7 +502,7 @@
     "timeMonth": 254,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-03-29": 977,
+      "2025-03-29": 1093,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -875,7 +875,7 @@
     "icon": "https://expert-contabil-sector3.business.site/",
     "slug": "ioana-hutter-contabil-sector-3-google-version",
     "status": "down",
-    "uptime": "57.45%",
+    "uptime": "57.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -886,7 +886,7 @@
     "timeMonth": 242,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-03-29": 977,
+      "2025-03-29": 1093,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1318,7 +1318,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 977,
+      "2025-03-29": 1094,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1709,7 +1709,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zametu.ro.ico",
     "slug": "zametu",
     "status": "down",
-    "uptime": "45.89%",
+    "uptime": "45.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -1720,7 +1720,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 977,
+      "2025-03-29": 1094,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -2104,7 +2104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 977,
+      "2025-03-29": 1094,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -2488,7 +2488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 977,
+      "2025-03-29": 1094,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -2872,7 +2872,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 977,
+      "2025-03-29": 1094,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -3256,7 +3256,7 @@
     "timeMonth": 237,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-03-29": 977,
+      "2025-03-29": 1094,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -3740,7 +3740,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 977,
+      "2025-03-29": 1094,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -4112,19 +4112,19 @@
     "url": "https://security-telecom.ro",
     "icon": "https://icons.duckduckgo.com/ip3/security-telecom.ro.ico",
     "slug": "security-and-telecom-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "92.46%",
+    "uptimeDay": "92.42%",
     "uptimeWeek": "90.34%",
-    "uptimeMonth": "93.95%",
+    "uptimeMonth": "93.99%",
     "uptimeYear": "99.50%",
     "time": 1850,
-    "timeDay": 1622,
-    "timeWeek": 1745,
-    "timeMonth": 1755,
+    "timeDay": 1589,
+    "timeWeek": 1741,
+    "timeMonth": 1758,
     "timeYear": 1848,
     "dailyMinutesDown": {
-      "2025-03-29": 77,
+      "2025-03-29": 78,
       "2025-03-28": 67,
       "2025-03-27": 60,
       "2025-03-26": 157,
@@ -4143,8 +4143,7 @@
       "2025-03-13": 133,
       "2025-03-12": 141,
       "2025-03-11": 174,
-      "2025-03-10": 135,
-      "2025-03-09": 19
+      "2025-03-10": 135
     }
   },
   {
@@ -4175,7 +4174,7 @@
     "icon": "https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png",
     "slug": "baffi-cafe-google-version",
     "status": "down",
-    "uptime": "57.36%",
+    "uptime": "57.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -4186,7 +4185,7 @@
     "timeMonth": 218,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-03-29": 978,
+      "2025-03-29": 1094,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
