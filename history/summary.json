@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-02": 636,
+      "2025-04-02": 714,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -502,7 +502,7 @@
     "timeMonth": 249,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-04-02": 637,
+      "2025-04-02": 714,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -886,7 +886,7 @@
     "timeMonth": 242,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-04-02": 637,
+      "2025-04-02": 714,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -1318,7 +1318,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-02": 637,
+      "2025-04-02": 714,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -1709,7 +1709,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zametu.ro.ico",
     "slug": "zametu",
     "status": "down",
-    "uptime": "45.74%",
+    "uptime": "45.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1720,7 +1720,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-02": 637,
+      "2025-04-02": 714,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -2104,7 +2104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-02": 637,
+      "2025-04-02": 714,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -2488,7 +2488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-02": 637,
+      "2025-04-02": 714,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -2872,7 +2872,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-02": 637,
+      "2025-04-02": 714,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -3245,7 +3245,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/la-sulea.business.site.ico",
     "slug": "restaurant-la-sulea",
     "status": "down",
-    "uptime": "65.64%",
+    "uptime": "65.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3256,7 +3256,7 @@
     "timeMonth": 235,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-04-02": 637,
+      "2025-04-02": 714,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -3729,7 +3729,7 @@
     "icon": "https://www.cursmodeling.ro/wp-content/uploads/2022/07/curs-modeling-bold-models-school-logo.jpg",
     "slug": "bold-models",
     "status": "down",
-    "uptime": "27.31%",
+    "uptime": "27.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3740,7 +3740,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-02": 637,
+      "2025-04-02": 714,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -4112,19 +4112,19 @@
     "url": "https://security-telecom.ro",
     "icon": "https://icons.duckduckgo.com/ip3/security-telecom.ro.ico",
     "slug": "security-and-telecom-systems",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "90.24%",
-    "uptimeWeek": "92.43%",
-    "uptimeMonth": "94.09%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "91.71%",
+    "uptimeWeek": "92.42%",
+    "uptimeMonth": "94.16%",
     "uptimeYear": "99.51%",
     "time": 1851,
-    "timeDay": 3807,
+    "timeDay": 3933,
     "timeWeek": 1781,
-    "timeMonth": 1762,
+    "timeMonth": 1761,
     "timeYear": 1846,
     "dailyMinutesDown": {
-      "2025-04-02": 20,
+      "2025-04-02": 21,
       "2025-04-01": 157,
       "2025-03-31": 115,
       "2025-03-30": 120,
@@ -4144,7 +4144,7 @@
       "2025-03-16": 102,
       "2025-03-15": 31,
       "2025-03-14": 217,
-      "2025-03-13": 47
+      "2025-03-13": 17
     }
   },
   {
@@ -4186,7 +4186,7 @@
     "timeMonth": 216,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-04-02": 638,
+      "2025-04-02": 715,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
