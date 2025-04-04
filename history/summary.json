@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 739,
+      "2025-04-04": 892,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -502,7 +502,7 @@
     "timeMonth": 251,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-04-04": 739,
+      "2025-04-04": 892,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -875,7 +875,7 @@
     "icon": "https://expert-contabil-sector3.business.site/",
     "slug": "ioana-hutter-contabil-sector-3-google-version",
     "status": "down",
-    "uptime": "57.09%",
+    "uptime": "57.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -886,7 +886,7 @@
     "timeMonth": 252,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-04-04": 739,
+      "2025-04-04": 892,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1307,7 +1307,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/notarsector4.ro.ico",
     "slug": "notariat-sector-4",
     "status": "down",
-    "uptime": "30.60%",
+    "uptime": "30.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1318,7 +1318,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 739,
+      "2025-04-04": 892,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1720,7 +1720,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 739,
+      "2025-04-04": 892,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -2104,7 +2104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 739,
+      "2025-04-04": 892,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -2488,7 +2488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 739,
+      "2025-04-04": 892,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -2872,7 +2872,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 739,
+      "2025-04-04": 892,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -3245,7 +3245,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/la-sulea.business.site.ico",
     "slug": "restaurant-la-sulea",
     "status": "down",
-    "uptime": "65.52%",
+    "uptime": "65.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3256,7 +3256,7 @@
     "timeMonth": 235,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-04-04": 739,
+      "2025-04-04": 892,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -3740,7 +3740,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 739,
+      "2025-04-04": 892,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -4112,19 +4112,19 @@
     "url": "https://security-telecom.ro",
     "icon": "https://icons.duckduckgo.com/ip3/security-telecom.ro.ico",
     "slug": "security-and-telecom-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "90.65%",
-    "uptimeWeek": "91.74%",
-    "uptimeMonth": "94.24%",
+    "uptimeDay": "94.16%",
+    "uptimeWeek": "91.73%",
+    "uptimeMonth": "94.27%",
     "uptimeYear": "99.52%",
     "time": 1860,
-    "timeDay": 3386,
+    "timeDay": 3600,
     "timeWeek": 2020,
     "timeMonth": 1782,
     "timeYear": 1852,
     "dailyMinutesDown": {
-      "2025-04-04": 83,
+      "2025-04-04": 84,
       "2025-04-03": 106,
       "2025-04-02": 61,
       "2025-04-01": 157,
@@ -4143,7 +4143,7 @@
       "2025-03-19": 182,
       "2025-03-18": 77,
       "2025-03-17": 149,
-      "2025-03-16": 102
+      "2025-03-16": 86
     }
   },
   {
@@ -4185,7 +4185,7 @@
     "timeMonth": 219,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-04-04": 739,
+      "2025-04-04": 893,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
