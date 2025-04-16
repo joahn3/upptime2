@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 1100,
+      "2025-04-16": 1214,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -505,7 +505,7 @@
     "timeMonth": 246,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-04-16": 1100,
+      "2025-04-16": 1214,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -878,7 +878,7 @@
     "icon": "https://expert-contabil-sector3.business.site/",
     "slug": "ioana-hutter-contabil-sector-3-google-version",
     "status": "down",
-    "uptime": "56.34%",
+    "uptime": "56.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -889,7 +889,7 @@
     "timeMonth": 257,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-04-16": 1100,
+      "2025-04-16": 1214,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -1321,7 +1321,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 1100,
+      "2025-04-16": 1214,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -1723,7 +1723,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 1100,
+      "2025-04-16": 1214,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -2107,7 +2107,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 1100,
+      "2025-04-16": 1214,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -2491,7 +2491,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 1100,
+      "2025-04-16": 1214,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -2875,7 +2875,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 1100,
+      "2025-04-16": 1214,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -3259,7 +3259,7 @@
     "timeMonth": 233,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-04-16": 1100,
+      "2025-04-16": 1214,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -3733,7 +3733,7 @@
     "icon": "https://www.cursmodeling.ro/wp-content/uploads/2022/07/curs-modeling-bold-models-school-logo.jpg",
     "slug": "bold-models",
     "status": "down",
-    "uptime": "26.89%",
+    "uptime": "26.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3744,7 +3744,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 1101,
+      "2025-04-16": 1214,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -4116,19 +4116,19 @@
     "url": "https://security-telecom.ro",
     "icon": "https://icons.duckduckgo.com/ip3/security-telecom.ro.ico",
     "slug": "security-and-telecom-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "90.39%",
-    "uptimeWeek": "95.09%",
-    "uptimeMonth": "94.69%",
+    "uptimeDay": "91.47%",
+    "uptimeWeek": "95.08%",
+    "uptimeMonth": "94.73%",
     "uptimeYear": "99.56%",
-    "time": 1864,
-    "timeDay": 1913,
-    "timeWeek": 1791,
-    "timeMonth": 1882,
+    "time": 1865,
+    "timeDay": 1956,
+    "timeWeek": 1796,
+    "timeMonth": 1884,
     "timeYear": 1867,
     "dailyMinutesDown": {
-      "2025-04-16": 103,
+      "2025-04-16": 104,
       "2025-04-15": 109,
       "2025-04-14": 89,
       "2025-04-13": 61,
@@ -4150,8 +4150,7 @@
       "2025-03-28": 67,
       "2025-03-27": 60,
       "2025-03-26": 157,
-      "2025-03-25": 174,
-      "2025-03-24": 16
+      "2025-03-25": 174
     }
   },
   {
@@ -4193,7 +4192,7 @@
     "timeMonth": 221,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-04-16": 1101,
+      "2025-04-16": 1215,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
