@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-18": 777,
+      "2025-04-18": 826,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -506,7 +506,7 @@
     "timeMonth": 247,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-04-18": 777,
+      "2025-04-18": 826,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -890,7 +890,7 @@
     "timeMonth": 263,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-04-18": 777,
+      "2025-04-18": 826,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -1311,7 +1311,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/notarsector4.ro.ico",
     "slug": "notariat-sector-4",
     "status": "down",
-    "uptime": "30.23%",
+    "uptime": "30.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1322,7 +1322,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-18": 777,
+      "2025-04-18": 826,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -1724,7 +1724,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-18": 777,
+      "2025-04-18": 826,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -2108,7 +2108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-18": 777,
+      "2025-04-18": 826,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -2492,7 +2492,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-18": 777,
+      "2025-04-18": 826,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -2876,7 +2876,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-18": 777,
+      "2025-04-18": 826,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -3249,7 +3249,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/la-sulea.business.site.ico",
     "slug": "restaurant-la-sulea",
     "status": "down",
-    "uptime": "64.73%",
+    "uptime": "64.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3260,7 +3260,7 @@
     "timeMonth": 236,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-04-18": 777,
+      "2025-04-18": 826,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -3734,7 +3734,7 @@
     "icon": "https://www.cursmodeling.ro/wp-content/uploads/2022/07/curs-modeling-bold-models-school-logo.jpg",
     "slug": "bold-models",
     "status": "down",
-    "uptime": "26.84%",
+    "uptime": "26.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3745,7 +3745,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-18": 778,
+      "2025-04-18": 827,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -4117,19 +4117,19 @@
     "url": "https://security-telecom.ro",
     "icon": "https://icons.duckduckgo.com/ip3/security-telecom.ro.ico",
     "slug": "security-and-telecom-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "87.83%",
-    "uptimeWeek": "93.60%",
-    "uptimeMonth": "94.78%",
-    "uptimeYear": "99.56%",
+    "uptimeDay": "87.79%",
+    "uptimeWeek": "93.59%",
+    "uptimeMonth": "94.81%",
+    "uptimeYear": "99.57%",
     "time": 1864,
     "timeDay": 2208,
     "timeWeek": 1838,
     "timeMonth": 1911,
     "timeYear": 1869,
     "dailyMinutesDown": {
-      "2025-04-18": 139,
+      "2025-04-18": 140,
       "2025-04-17": 69,
       "2025-04-16": 122,
       "2025-04-15": 109,
@@ -4152,7 +4152,7 @@
       "2025-03-29": 158,
       "2025-03-28": 67,
       "2025-03-27": 60,
-      "2025-03-26": 82
+      "2025-03-26": 66
     }
   },
   {
@@ -4194,7 +4194,7 @@
     "timeMonth": 224,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-04-18": 778,
+      "2025-04-18": 827,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
