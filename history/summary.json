@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-14": 1308,
+      "2025-05-15": 43,
+      "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -379,8 +380,7 @@
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
-      "2024-05-16": 1440,
-      "2024-05-15": 1440
+      "2024-05-16": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.95%",
-    "time": 4507,
-    "timeDay": 6298,
-    "timeWeek": 7413,
-    "timeMonth": 5941,
-    "timeYear": 4548,
+    "time": 4511,
+    "timeDay": 6735,
+    "timeWeek": 7412,
+    "timeMonth": 5974,
+    "timeYear": 4552,
     "dailyMinutesDown": {
       "2025-04-25": 17,
       "2025-04-17": 18,
@@ -422,10 +422,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
     "time": 1074,
-    "timeDay": 905,
-    "timeWeek": 1153,
-    "timeMonth": 1088,
-    "timeYear": 1074,
+    "timeDay": 897,
+    "timeWeek": 1083,
+    "timeMonth": 1082,
+    "timeYear": 1073,
     "dailyMinutesDown": {
       "2025-04-28": 18,
       "2024-12-04": 213,
@@ -447,11 +447,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.85%",
-    "time": 2539,
-    "timeDay": 1735,
-    "timeWeek": 2573,
-    "timeMonth": 2779,
-    "timeYear": 2554,
+    "time": 2537,
+    "timeDay": 2138,
+    "timeWeek": 2463,
+    "timeMonth": 2761,
+    "timeYear": 2553,
     "dailyMinutesDown": {
       "2025-04-28": 18,
       "2025-04-24": 16,
@@ -477,9 +477,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
     "time": 526,
-    "timeDay": 450,
-    "timeWeek": 578,
-    "timeMonth": 704,
+    "timeDay": 485,
+    "timeWeek": 577,
+    "timeMonth": 703,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2025-04-14": 17,
@@ -504,12 +504,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 240,
-    "timeDay": 180,
-    "timeWeek": 206,
-    "timeMonth": 225,
+    "timeDay": 184,
+    "timeWeek": 202,
+    "timeMonth": 222,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-05-14": 1308,
+      "2025-05-15": 43,
+      "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -872,8 +873,7 @@
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
-      "2024-05-16": 1440,
-      "2024-05-15": 1440
+      "2024-05-16": 1440
     }
   },
   {
@@ -882,18 +882,19 @@
     "icon": "https://expert-contabil-sector3.business.site/",
     "slug": "ioana-hutter-contabil-sector-3-google-version",
     "status": "down",
-    "uptime": "54.69%",
+    "uptime": "54.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 242,
-    "timeDay": 226,
-    "timeWeek": 228,
-    "timeMonth": 229,
+    "time": 241,
+    "timeDay": 195,
+    "timeWeek": 226,
+    "timeMonth": 223,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-05-14": 1308,
+      "2025-05-15": 43,
+      "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -1256,8 +1257,7 @@
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
-      "2024-05-16": 1440,
-      "2024-05-15": 1440
+      "2024-05-16": 1440
     }
   },
   {
@@ -1272,8 +1272,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 139,
-    "timeWeek": 204,
+    "timeDay": 157,
+    "timeWeek": 197,
     "timeMonth": 187,
     "timeYear": 299,
     "dailyMinutesDown": {
@@ -1291,10 +1291,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.86%",
-    "time": 3632,
-    "timeDay": 2660,
-    "timeWeek": 3500,
-    "timeMonth": 3598,
+    "time": 3630,
+    "timeDay": 3198,
+    "timeWeek": 3399,
+    "timeMonth": 3573,
     "timeYear": 3614,
     "dailyMinutesDown": {
       "2025-04-24": 16,
@@ -1325,7 +1325,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-14": 1308,
+      "2025-05-15": 43,
+      "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -1688,8 +1689,7 @@
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
-      "2024-05-16": 1440,
-      "2024-05-15": 1440
+      "2024-05-16": 1440
     }
   },
   {
@@ -1704,8 +1704,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 137,
-    "timeWeek": 143,
+    "timeDay": 103,
+    "timeWeek": 134,
     "timeMonth": 127,
     "timeYear": 126,
     "dailyMinutesDown": {}
@@ -1727,7 +1727,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-14": 1308,
+      "2025-05-15": 43,
+      "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -2090,8 +2091,7 @@
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
-      "2024-05-16": 1440,
-      "2024-05-15": 1440
+      "2024-05-16": 1440
     }
   },
   {
@@ -2111,7 +2111,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-14": 1308,
+      "2025-05-15": 43,
+      "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -2474,8 +2475,7 @@
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
-      "2024-05-16": 1440,
-      "2024-05-15": 1440
+      "2024-05-16": 1440
     }
   },
   {
@@ -2495,7 +2495,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-14": 1308,
+      "2025-05-15": 44,
+      "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -2858,8 +2859,7 @@
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
-      "2024-05-16": 1440,
-      "2024-05-15": 1440
+      "2024-05-16": 1440
     }
   },
   {
@@ -2879,7 +2879,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-14": 1308,
+      "2025-05-15": 44,
+      "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -3242,8 +3243,7 @@
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
-      "2024-05-16": 1440,
-      "2024-05-15": 1440
+      "2024-05-16": 1440
     }
   },
   {
@@ -3252,18 +3252,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/la-sulea.business.site.ico",
     "slug": "restaurant-la-sulea",
     "status": "down",
-    "uptime": "63.29%",
+    "uptime": "63.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 250,
-    "timeDay": 173,
-    "timeWeek": 218,
-    "timeMonth": 237,
+    "time": 249,
+    "timeDay": 191,
+    "timeWeek": 215,
+    "timeMonth": 229,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-05-14": 1308,
+      "2025-05-15": 44,
+      "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -3626,8 +3627,7 @@
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
-      "2024-05-16": 1440,
-      "2024-05-15": 1440
+      "2024-05-16": 1440
     }
   },
   {
@@ -3641,10 +3641,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 69,
-    "timeWeek": 199,
-    "timeMonth": 149,
+    "time": 112,
+    "timeDay": 55,
+    "timeWeek": 200,
+    "timeMonth": 147,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2024-10-22": 17
@@ -3662,9 +3662,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 174,
-    "timeDay": 47,
-    "timeWeek": 75,
-    "timeMonth": 148,
+    "timeDay": 100,
+    "timeWeek": 84,
+    "timeMonth": 139,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2025-04-14": 16,
@@ -3683,9 +3683,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
-    "timeDay": 34,
-    "timeWeek": 108,
-    "timeMonth": 109,
+    "timeDay": 53,
+    "timeWeek": 96,
+    "timeMonth": 107,
     "timeYear": 95,
     "dailyMinutesDown": {}
   },
@@ -3695,18 +3695,19 @@
     "icon": "https://www.ledone.ro/img/led-one-logo-1545331888.jpg",
     "slug": "ledone-ro",
     "status": "down",
-    "uptime": "97.53%",
+    "uptime": "97.52%",
     "uptimeDay": "4.78%",
     "uptimeWeek": "3.12%",
-    "uptimeMonth": "49.71%",
-    "uptimeYear": "95.65%",
-    "time": 5195,
-    "timeDay": 12487,
-    "timeWeek": 14753,
-    "timeMonth": 10894,
-    "timeYear": 5182,
+    "uptimeMonth": "49.31%",
+    "uptimeYear": "95.62%",
+    "time": 5223,
+    "timeDay": 14142,
+    "timeWeek": 14737,
+    "timeMonth": 11227,
+    "timeYear": 5220,
     "dailyMinutesDown": {
-      "2025-05-14": 1239,
+      "2025-05-15": 44,
+      "2025-05-14": 1371,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -3758,7 +3759,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-14": 1308,
+      "2025-05-15": 44,
+      "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -4121,8 +4123,7 @@
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
-      "2024-05-16": 1440,
-      "2024-05-15": 1440
+      "2024-05-16": 1440
     }
   },
   {
@@ -4132,17 +4133,16 @@
     "slug": "security-and-telecom-systems",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "96.19%",
-    "uptimeMonth": "95.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.67%",
+    "uptimeMonth": "95.08%",
     "uptimeYear": "99.51%",
     "time": 1899,
-    "timeDay": 1841,
-    "timeWeek": 2709,
-    "timeMonth": 2512,
-    "timeYear": 1896,
+    "timeDay": 2023,
+    "timeWeek": 2637,
+    "timeMonth": 2518,
+    "timeYear": 1895,
     "dailyMinutesDown": {
-      "2025-05-14": 6,
       "2025-05-12": 116,
       "2025-05-11": 155,
       "2025-05-10": 4,
@@ -4175,7 +4175,7 @@
       "2025-04-11": 18,
       "2025-04-10": 59,
       "2025-04-09": 109,
-      "2025-04-08": 37
+      "2025-04-08": 55
     }
   },
   {
@@ -4189,11 +4189,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
-    "time": 1375,
-    "timeDay": 1061,
-    "timeWeek": 1518,
-    "timeMonth": 1364,
-    "timeYear": 1369,
+    "time": 1373,
+    "timeDay": 1121,
+    "timeWeek": 1414,
+    "timeMonth": 1355,
+    "timeYear": 1368,
     "dailyMinutesDown": {
       "2025-04-01": 495,
       "2025-03-31": 1440,
@@ -4206,18 +4206,19 @@
     "icon": "https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png",
     "slug": "baffi-cafe-google-version",
     "status": "down",
-    "uptime": "54.60%",
+    "uptime": "54.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 250,
-    "timeDay": 196,
-    "timeWeek": 224,
-    "timeMonth": 230,
+    "timeDay": 216,
+    "timeWeek": 223,
+    "timeMonth": 232,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-05-14": 1309,
+      "2025-05-15": 44,
+      "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -4580,8 +4581,7 @@
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
-      "2024-05-16": 1440,
-      "2024-05-15": 1440
+      "2024-05-16": 1440
     }
   }
 ]
