@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-07": 51,
+      "2025-07-08": 46,
+      "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -379,8 +380,7 @@
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 1440,
-      "2024-07-08": 1440
+      "2024-07-09": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
-    "time": 4780,
-    "timeDay": 7268,
-    "timeWeek": 6262,
-    "timeMonth": 6233,
-    "timeYear": 4917,
+    "time": 4782,
+    "timeDay": 6288,
+    "timeWeek": 6389,
+    "timeMonth": 6236,
+    "timeYear": 4921,
     "dailyMinutesDown": {
       "2025-07-01": 19,
       "2025-06-06": 18,
@@ -423,11 +423,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.91%",
-    "time": 1068,
-    "timeDay": 914,
-    "timeWeek": 937,
-    "timeMonth": 1014,
-    "timeYear": 1065,
+    "time": 1069,
+    "timeDay": 1347,
+    "timeWeek": 1011,
+    "timeMonth": 1023,
+    "timeYear": 1066,
     "dailyMinutesDown": {
       "2025-06-14": 51,
       "2025-06-13": 44,
@@ -449,10 +449,10 @@
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.89%",
     "time": 2556,
-    "timeDay": 2329,
-    "timeWeek": 2302,
-    "timeMonth": 2479,
-    "timeYear": 2578,
+    "timeDay": 3346,
+    "timeWeek": 2523,
+    "timeMonth": 2500,
+    "timeYear": 2581,
     "dailyMinutesDown": {
       "2025-06-14": 51,
       "2025-06-13": 43,
@@ -476,11 +476,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
-    "time": 577,
-    "timeDay": 524,
-    "timeWeek": 518,
-    "timeMonth": 518,
-    "timeYear": 641,
+    "time": 586,
+    "timeDay": 5282,
+    "timeWeek": 1220,
+    "timeMonth": 680,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2025-04-14": 17,
       "2025-04-12": 19,
@@ -497,18 +497,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/good-pc.business.site.ico",
     "slug": "good-pc-google-version",
     "status": "down",
-    "uptime": "60.57%",
+    "uptime": "60.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 246,
-    "timeDay": 161,
-    "timeWeek": 924,
-    "timeMonth": 395,
+    "time": 247,
+    "timeDay": 260,
+    "timeWeek": 936,
+    "timeMonth": 396,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2025-07-07": 52,
+      "2025-07-08": 46,
+      "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -871,8 +872,7 @@
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 1440,
-      "2024-07-08": 1440
+      "2024-07-09": 1440
     }
   },
   {
@@ -881,18 +881,19 @@
     "icon": "https://expert-contabil-sector3.business.site/",
     "slug": "ioana-hutter-contabil-sector-3-google-version",
     "status": "down",
-    "uptime": "51.82%",
+    "uptime": "51.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 240,
-    "timeDay": 206,
-    "timeWeek": 227,
-    "timeMonth": 241,
+    "time": 241,
+    "timeDay": 241,
+    "timeWeek": 238,
+    "timeMonth": 240,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-07-07": 52,
+      "2025-07-08": 46,
+      "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -1255,8 +1256,7 @@
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 1440,
-      "2024-07-08": 1440
+      "2024-07-09": 1440
     }
   },
   {
@@ -1271,8 +1271,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 324,
-    "timeDay": 164,
-    "timeWeek": 184,
+    "timeDay": 190,
+    "timeWeek": 186,
     "timeMonth": 198,
     "timeYear": 301,
     "dailyMinutesDown": {
@@ -1290,11 +1290,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.90%",
-    "time": 3626,
-    "timeDay": 3572,
-    "timeWeek": 3529,
-    "timeMonth": 3687,
-    "timeYear": 3617,
+    "time": 3628,
+    "timeDay": 4311,
+    "timeWeek": 3712,
+    "timeMonth": 3696,
+    "timeYear": 3620,
     "dailyMinutesDown": {
       "2025-06-14": 51,
       "2025-06-13": 43,
@@ -1313,7 +1313,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/notarsector4.ro.ico",
     "slug": "notariat-sector-4",
     "status": "down",
-    "uptime": "28.29%",
+    "uptime": "28.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1324,7 +1324,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-07": 52,
+      "2025-07-08": 46,
+      "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -1687,8 +1688,7 @@
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 1440,
-      "2024-07-08": 1440
+      "2024-07-09": 1440
     }
   },
   {
@@ -1703,10 +1703,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 106,
-    "timeWeek": 111,
-    "timeMonth": 124,
-    "timeYear": 124,
+    "timeDay": 484,
+    "timeWeek": 166,
+    "timeMonth": 138,
+    "timeYear": 125,
     "dailyMinutesDown": {}
   },
   {
@@ -1715,7 +1715,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zametu.ro.ico",
     "slug": "zametu",
     "status": "down",
-    "uptime": "42.21%",
+    "uptime": "42.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1726,7 +1726,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-07": 52,
+      "2025-07-08": 46,
+      "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -2089,8 +2090,7 @@
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 1440,
-      "2024-07-08": 1440
+      "2024-07-09": 1440
     }
   },
   {
@@ -2110,7 +2110,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-07": 52,
+      "2025-07-08": 46,
+      "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -2473,8 +2474,7 @@
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 1440,
-      "2024-07-08": 1440
+      "2024-07-09": 1440
     }
   },
   {
@@ -2494,7 +2494,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-07": 52,
+      "2025-07-08": 46,
+      "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -2857,8 +2858,7 @@
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 1440,
-      "2024-07-08": 1440
+      "2024-07-09": 1440
     }
   },
   {
@@ -2867,7 +2867,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wesecureweb.dev.ico",
     "slug": "we-secure-web-dev",
     "status": "down",
-    "uptime": "27.12%",
+    "uptime": "27.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2878,7 +2878,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-07": 52,
+      "2025-07-08": 46,
+      "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -3241,8 +3242,7 @@
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 1440,
-      "2024-07-08": 1440
+      "2024-07-09": 1440
     }
   },
   {
@@ -3251,18 +3251,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/la-sulea.business.site.ico",
     "slug": "restaurant-la-sulea",
     "status": "down",
-    "uptime": "60.58%",
+    "uptime": "60.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 232,
-    "timeDay": 207,
-    "timeWeek": 214,
-    "timeMonth": 245,
+    "timeDay": 160,
+    "timeWeek": 203,
+    "timeMonth": 234,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-07-07": 52,
+      "2025-07-08": 46,
+      "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -3625,8 +3626,7 @@
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 1440,
-      "2024-07-08": 1440
+      "2024-07-09": 1440
     }
   },
   {
@@ -3641,8 +3641,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 68,
-    "timeWeek": 117,
+    "timeDay": 92,
+    "timeWeek": 122,
     "timeMonth": 133,
     "timeYear": 122,
     "dailyMinutesDown": {
@@ -3660,11 +3660,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 188,
-    "timeDay": 557,
-    "timeWeek": 177,
-    "timeMonth": 427,
-    "timeYear": 199,
+    "time": 189,
+    "timeDay": 554,
+    "timeWeek": 248,
+    "timeMonth": 440,
+    "timeYear": 200,
     "dailyMinutesDown": {
       "2025-04-14": 16,
       "2025-03-07": 17
@@ -3682,10 +3682,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 94,
-    "timeWeek": 98,
-    "timeMonth": 103,
-    "timeYear": 99,
+    "timeDay": 142,
+    "timeWeek": 110,
+    "timeMonth": 105,
+    "timeYear": 100,
     "dailyMinutesDown": {}
   },
   {
@@ -3694,18 +3694,19 @@
     "icon": "https://www.ledone.ro/img/led-one-logo-1545331888.jpg",
     "slug": "ledone-ro",
     "status": "down",
-    "uptime": "94.72%",
+    "uptime": "94.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.59%",
-    "uptimeYear": "87.48%",
+    "uptimeMonth": "28.31%",
+    "uptimeYear": "87.21%",
     "time": 5382,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1098,
-    "timeYear": 5299,
+    "timeMonth": 1104,
+    "timeYear": 5302,
     "dailyMinutesDown": {
-      "2025-07-07": 52,
+      "2025-07-08": 47,
+      "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -3779,7 +3780,7 @@
     "icon": "https://www.cursmodeling.ro/wp-content/uploads/2022/07/curs-modeling-bold-models-school-logo.jpg",
     "slug": "bold-models",
     "status": "down",
-    "uptime": "24.73%",
+    "uptime": "24.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -3790,7 +3791,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-07": 52,
+      "2025-07-08": 47,
+      "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -4153,8 +4155,7 @@
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 1440,
-      "2024-07-08": 1440
+      "2024-07-09": 1440
     }
   },
   {
@@ -4169,9 +4170,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.51%",
     "time": 1887,
-    "timeDay": 3213,
-    "timeWeek": 2036,
-    "timeMonth": 2004,
+    "timeDay": 2641,
+    "timeWeek": 2236,
+    "timeMonth": 2014,
     "timeYear": 1884,
     "dailyMinutesDown": {
       "2025-06-11": 18,
@@ -4222,10 +4223,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 1363,
-    "timeDay": 1129,
-    "timeWeek": 1223,
-    "timeMonth": 1268,
-    "timeYear": 1363,
+    "timeDay": 1606,
+    "timeWeek": 1294,
+    "timeMonth": 1278,
+    "timeYear": 1364,
     "dailyMinutesDown": {
       "2025-06-06": 18,
       "2025-04-01": 495,
@@ -4239,18 +4240,19 @@
     "icon": "https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png",
     "slug": "baffi-cafe-google-version",
     "status": "down",
-    "uptime": "51.74%",
+    "uptime": "51.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 237,
-    "timeDay": 245,
-    "timeWeek": 233,
-    "timeMonth": 226,
-    "timeYear": 235,
+    "timeDay": 205,
+    "timeWeek": 227,
+    "timeMonth": 223,
+    "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-07-07": 53,
+      "2025-07-08": 47,
+      "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -4613,8 +4615,7 @@
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 1440,
-      "2024-07-08": 1440
+      "2024-07-09": 1440
     }
   }
 ]
