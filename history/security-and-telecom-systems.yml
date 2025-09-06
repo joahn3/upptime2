@@ -1,7 +1,7 @@
 url: https://security-telecom.ro
-status: up
-code: 200
-responseTime: 2189
-lastUpdated: 2025-09-05T23:15:14.066Z
+status: down
+code: 403
+responseTime: 735
+lastUpdated: 2025-09-06T12:52:45.914Z
 startTime: 2022-09-26T09:29:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
