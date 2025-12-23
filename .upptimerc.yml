@@ -4,27 +4,23 @@ repo: upptime2 # The name of this repository
 user-agent: joahn3
 
 sites:
-  - name: Firacode.ro
+  - name: firaCODE.ro
     url: https://firacode.ro
     icon: 
-  - name: Chic Roumaine
+  - name: firaWEB.ro
+    url: https://firaweb.ro
+    icon: 
+  - name: TemeJoc.ro
+    url: https://temejoc.ro
+    icon: https://temejoc.ro/wp-content/uploads/2025/12/cropped-temejoc-logo-simplu-fundal-transparent-v3-xp-orbit-192x192.avif
+  - name: ChicRoumaine.com
     url: https://www.chicroumaine.com
-  - name: Earthlink
-    url: https://earthlink.ro
+    icon: https://chicroumaine.com/wp-content/uploads/2016/12/logo_chicroumaine.png
   - name: Tsty
     url: https://tsty.ro
-  - name: GoodPC
+  - name: GoodPC.ro
     url: https://goodpc.ro
-  - name: GoodPC <Google version>
-    url: https://good-pc.business.site
-  - name: Ioana Hutter - Contabil Sector 3 <Google version>
-    url: https://expert-contabil-sector3.business.site/
-    icon: https://expert-contabil-sector3.business.site/
-  - name: Expert contabil Sector 3 website
-    url: https://sites.google.com/view/expert-contabil-sector3/
-    icon: https://sites.google.com/view/expert-contabil-sector3/
-  - name: RolCris.ro
-    url: https://rolcris.ro
+    icon: https://goodpc.ro/assets/images/goodpc-logo.svg
   - name: Notariat Sector 4
     url: https://notarsector4.ro
   - name: Notariat Sector 4 <Google version>
@@ -45,24 +41,24 @@ sites:
   - name: ionutFrancisc.com (Netlify Dev version)
     url: https://ionut-francisc.netlify.app
     icon: https://ionut-francisc.netlify.app/favicon.png
-  - name: Firacode clients uptime monitoring
-    url: https://joahn3.github.io/upptime2/
-    icon: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  - name: Ledone.ro
-    url: https://ledone.ro/
-    icon: https://www.ledone.ro/img/led-one-logo-1545331888.jpg
-  - name: BOLD Models
-    url: https://cursmodeling.ro
-    icon: https://www.cursmodeling.ro/wp-content/uploads/2022/07/curs-modeling-bold-models-school-logo.jpg
+  - name: BOLDmodels.ro
+    url: https://boldmodels.ro
+    icon: https://www.boldmodels.ro/wp-content/uploads/2025/12/bold-models-school-logo-33.png
   - name: Security & Telecom Systems
     url: https://security-telecom.ro
-  - name: Baffi Cafe
+    icon: https://security-telecom.ro/wp-content/uploads/2023/01/logo-security-telecom-removebg-preview.png
+  - name: new | Security & Telecom Systems
+    url: https://security-telecom.netlify.app
+    icon: https://security-telecom.ro/wp-content/uploads/2023/01/logo-security-telecom-removebg-preview.png
+  - name: BaffiCafe.ro
     url: https://bafficafe.ro
     icon: https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png
-  - name: Baffi Cafe <Google version>
-    url: https://restaurant-baffi-cafe-bragadiru.business.site/
-    icon: https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png
-
+ - name: Firacode clients uptime monitoring
+    url: https://joahn3.github.io/upptime2/
+    icon: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+ - name: earthlink uptime monitoring
+    url: https://joahn3.github.io/earthlink-uptime/
+    icon: https://earthlink.ro/favico.png
 
 status-website:
   theme: dark
