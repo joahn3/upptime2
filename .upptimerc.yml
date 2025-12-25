@@ -53,10 +53,10 @@ sites:
   - name: BaffiCafe.ro
     url: https://bafficafe.ro
     icon: https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png
- - name: Firacode clients uptime monitoring
+  - name: Firacode clients uptime monitoring
     url: https://joahn3.github.io/upptime2/
     icon: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
- - name: earthlink uptime monitoring
+  - name: earthlink uptime monitoring
     url: https://joahn3.github.io/earthlink-uptime/
     icon: https://earthlink.ro/favico.png
 
