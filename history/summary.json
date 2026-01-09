@@ -154,7 +154,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-09": 704,
+      "2026-01-09": 710,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
@@ -526,19 +526,19 @@
     "url": "https://sites.google.com/view/notariatonline-ro",
     "icon": "https://icons.duckduckgo.com/ip3/sites.google.com.ico",
     "slug": "notariat-sector-4-google-version",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 219,
-    "timeWeek": 251,
-    "timeMonth": 182,
+    "timeDay": 214,
+    "timeWeek": 246,
+    "timeMonth": 183,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2026-01-09": 0,
+      "2026-01-09": 6,
       "2025-08-12": 15
     }
   },
@@ -559,7 +559,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-09": 704,
+      "2026-01-09": 710,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
@@ -943,7 +943,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-09": 704,
+      "2026-01-09": 710,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
@@ -1327,7 +1327,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-09": 704,
+      "2026-01-09": 710,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
@@ -1711,7 +1711,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-09": 704,
+      "2026-01-09": 710,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
@@ -2095,7 +2095,7 @@
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2026-01-09": 704,
+      "2026-01-09": 710,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
