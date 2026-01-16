@@ -1,7 +1,7 @@
 url: https://bafficafe.ro
-status: up
-code: 200
-responseTime: 4528
-lastUpdated: 2026-01-16T03:21:11.288Z
+status: down
+code: 415
+responseTime: 1090
+lastUpdated: 2026-01-16T04:50:11.416Z
 startTime: 2025-12-25T06:28:57.445Z
 generator: Upptime <https://github.com/upptime/upptime>
