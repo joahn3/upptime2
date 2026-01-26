@@ -45,18 +45,17 @@
     "icon": "https://temejoc.ro/wp-content/uploads/2025/12/cropped-temejoc-logo-simplu-fundal-transparent-v3-xp-orbit-192x192.avif",
     "slug": "teme-joc-ro",
     "status": "up",
-    "uptime": "97.80%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "97.06%",
-    "uptimeMonth": "97.71%",
-    "uptimeYear": "97.80%",
+    "uptime": "97.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.14%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "97.82%",
     "time": 1698,
     "timeDay": 1620,
     "timeWeek": 1638,
     "timeMonth": 1703,
     "timeYear": 1698,
     "dailyMinutesDown": {
-      "2026-01-25": 8,
       "2026-01-24": 123,
       "2026-01-23": 2,
       "2026-01-22": 16,
@@ -87,18 +86,17 @@
     "icon": "https://chicroumaine.com/wp-content/uploads/2016/12/logo_chicroumaine.png",
     "slug": "chic-roumaine-com",
     "status": "up",
-    "uptime": "97.85%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "97.05%",
-    "uptimeMonth": "97.76%",
-    "uptimeYear": "97.85%",
+    "uptime": "97.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.13%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "97.87%",
     "time": 3497,
     "timeDay": 2944,
     "timeWeek": 3222,
     "timeMonth": 3486,
     "timeYear": 3497,
     "dailyMinutesDown": {
-      "2026-01-25": 8,
       "2026-01-24": 123,
       "2026-01-23": 2,
       "2026-01-22": 16,
@@ -184,7 +182,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 1399,
+      "2026-01-26": 56,
+      "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -547,8 +546,7 @@
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
-      "2025-01-27": 1440,
-      "2025-01-26": 1440
+      "2025-01-27": 1440
     }
   },
   {
@@ -588,7 +586,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 1399,
+      "2026-01-26": 56,
+      "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -951,8 +950,7 @@
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
-      "2025-01-27": 1440,
-      "2025-01-26": 1440
+      "2025-01-27": 1440
     }
   },
   {
@@ -972,7 +970,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 1399,
+      "2026-01-26": 56,
+      "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -1335,8 +1334,7 @@
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
-      "2025-01-27": 1440,
-      "2025-01-26": 1440
+      "2025-01-27": 1440
     }
   },
   {
@@ -1356,7 +1354,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 1399,
+      "2026-01-26": 56,
+      "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -1719,8 +1718,7 @@
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
-      "2025-01-27": 1440,
-      "2025-01-26": 1440
+      "2025-01-27": 1440
     }
   },
   {
@@ -1740,7 +1738,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 1399,
+      "2026-01-26": 56,
+      "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -2103,8 +2102,7 @@
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
-      "2025-01-27": 1440,
-      "2025-01-26": 1440
+      "2025-01-27": 1440
     }
   },
   {
@@ -2113,7 +2111,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/la-sulea.business.site.ico",
     "slug": "restaurant-la-sulea",
     "status": "down",
-    "uptime": "52.06%",
+    "uptime": "52.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2124,7 +2122,8 @@
     "timeMonth": 247,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2026-01-25": 1399,
+      "2026-01-26": 56,
+      "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -2487,8 +2486,7 @@
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
-      "2025-01-27": 1440,
-      "2025-01-26": 1440
+      "2025-01-27": 1440
     }
   },
   {
@@ -2553,18 +2551,17 @@
     "icon": "https://www.boldmodels.ro/wp-content/uploads/2025/12/bold-models-school-logo-33.png",
     "slug": "bol-dmodels-ro",
     "status": "up",
-    "uptime": "97.45%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "96.26%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "97.45%",
+    "uptime": "97.47%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "97.47%",
     "time": 3687,
     "timeDay": 3309,
     "timeWeek": 3749,
     "timeMonth": 3681,
     "timeYear": 3687,
     "dailyMinutesDown": {
-      "2026-01-25": 8,
       "2026-01-24": 123,
       "2026-01-23": 81,
       "2026-01-22": 16,
@@ -2599,9 +2596,9 @@
     "slug": "security-and-telecom-systems",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "97.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "99.46%",
     "time": 1991,
     "timeDay": 2193,
@@ -2609,7 +2606,6 @@
     "timeMonth": 2165,
     "timeYear": 1983,
     "dailyMinutesDown": {
-      "2026-01-25": 8,
       "2026-01-24": 123,
       "2026-01-23": 2,
       "2026-01-22": 16,
@@ -2670,7 +2666,7 @@
       "2025-05-10": 4,
       "2025-05-08": 103,
       "2025-05-07": 75,
-      "2025-05-06": 63
+      "2025-05-06": 81
     }
   },
   {
@@ -2697,18 +2693,17 @@
     "icon": "https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png",
     "slug": "baffi-cafe-ro",
     "status": "up",
-    "uptime": "97.74%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "96.74%",
-    "uptimeMonth": "97.65%",
-    "uptimeYear": "97.74%",
+    "uptime": "97.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "97.76%",
     "time": 1443,
     "timeDay": 1424,
     "timeWeek": 1351,
     "timeMonth": 1439,
     "timeYear": 1443,
     "dailyMinutesDown": {
-      "2026-01-25": 8,
       "2026-01-24": 123,
       "2026-01-23": 1,
       "2026-01-22": 16,
