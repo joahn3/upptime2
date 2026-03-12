@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 715,
-    "timeDay": 996,
-    "timeWeek": 796,
-    "timeMonth": 746,
-    "timeYear": 715,
+    "time": 713,
+    "timeDay": 532,
+    "timeWeek": 716,
+    "timeMonth": 745,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2026-02-11": 97,
       "2026-01-18": 17
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 60,
-    "timeDay": 19,
-    "timeWeek": 24,
+    "time": 59,
+    "timeDay": 6,
+    "timeWeek": 23,
     "timeMonth": 24,
-    "timeYear": 60,
+    "timeYear": 59,
     "dailyMinutesDown": {
       "2026-02-11": 97,
       "2026-01-18": 17
@@ -47,16 +47,16 @@
     "icon": "https://temejoc.ro/wp-content/uploads/2025/12/cropped-temejoc-logo-simplu-fundal-transparent-v3-xp-orbit-192x192.avif",
     "slug": "teme-joc-ro",
     "status": "up",
-    "uptime": "95.04%",
+    "uptime": "95.06%",
     "uptimeDay": "96.97%",
     "uptimeWeek": "97.25%",
     "uptimeMonth": "96.79%",
-    "uptimeYear": "95.04%",
-    "time": 1690,
-    "timeDay": 1863,
-    "timeWeek": 1728,
+    "uptimeYear": "95.06%",
+    "time": 1692,
+    "timeDay": 1955,
+    "timeWeek": 1729,
     "timeMonth": 1662,
-    "timeYear": 1690,
+    "timeYear": 1692,
     "dailyMinutesDown": {
       "2026-03-11": 44,
       "2026-03-09": 26,
@@ -115,15 +115,15 @@
     "icon": "https://chicroumaine.com/wp-content/uploads/2016/12/logo_chicroumaine.png",
     "slug": "chic-roumaine-com",
     "status": "up",
-    "uptime": "95.08%",
+    "uptime": "95.10%",
     "uptimeDay": "96.96%",
     "uptimeWeek": "97.25%",
     "uptimeMonth": "96.78%",
-    "uptimeYear": "95.08%",
+    "uptimeYear": "95.10%",
     "time": 3720,
-    "timeDay": 3710,
-    "timeWeek": 3489,
-    "timeMonth": 3820,
+    "timeDay": 3008,
+    "timeWeek": 3486,
+    "timeMonth": 3819,
     "timeYear": 3720,
     "dailyMinutesDown": {
       "2026-03-11": 44,
@@ -188,9 +188,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 2523,
-    "timeDay": 1961,
-    "timeWeek": 2974,
-    "timeMonth": 2069,
+    "timeDay": 2126,
+    "timeWeek": 1800,
+    "timeMonth": 2075,
     "timeYear": 2490,
     "dailyMinutesDown": {
       "2025-12-22": 68,
@@ -214,11 +214,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 472,
-    "timeWeek": 443,
-    "timeMonth": 427,
-    "timeYear": 387,
+    "time": 454,
+    "timeDay": 263,
+    "timeWeek": 398,
+    "timeMonth": 426,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   },
   {
@@ -227,7 +227,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/notarsector4.ro.ico",
     "slug": "notariat-sector-4",
     "status": "down",
-    "uptime": "23.58%",
+    "uptime": "23.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -238,7 +238,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-11": 996,
+      "2026-03-12": 55,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -601,8 +602,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -617,9 +617,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 582,
-    "timeWeek": 265,
-    "timeMonth": 221,
+    "timeDay": 217,
+    "timeWeek": 263,
+    "timeMonth": 222,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2025-08-12": 15
@@ -631,7 +631,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zametu.ro.ico",
     "slug": "zametu",
     "status": "down",
-    "uptime": "35.18%",
+    "uptime": "35.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -642,7 +642,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-11": 996,
+      "2026-03-12": 55,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -1005,8 +1006,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -1026,7 +1026,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-11": 996,
+      "2026-03-12": 55,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -1389,8 +1390,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -1410,7 +1410,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-11": 996,
+      "2026-03-12": 55,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -1773,8 +1774,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -1794,7 +1794,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-11": 996,
+      "2026-03-12": 55,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -2157,8 +2158,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -2167,18 +2167,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/la-sulea.business.site.ico",
     "slug": "restaurant-la-sulea",
     "status": "down",
-    "uptime": "50.49%",
+    "uptime": "50.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 234,
-    "timeDay": 234,
-    "timeWeek": 229,
-    "timeMonth": 229,
+    "timeDay": 179,
+    "timeWeek": 228,
+    "timeMonth": 227,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2026-03-11": 997,
+      "2026-03-12": 55,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -2541,8 +2542,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -2557,7 +2557,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 134,
-    "timeDay": 126,
+    "timeDay": 54,
     "timeWeek": 119,
     "timeMonth": 134,
     "timeYear": 141,
@@ -2591,8 +2591,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 408,
-    "timeDay": 815,
-    "timeWeek": 396,
+    "timeDay": 44,
+    "timeWeek": 330,
     "timeMonth": 384,
     "timeYear": 491,
     "dailyMinutesDown": {
@@ -2606,16 +2606,16 @@
     "icon": "https://www.boldmodels.ro/wp-content/uploads/2025/12/bold-models-school-logo-33.png",
     "slug": "bol-dmodels-ro",
     "status": "up",
-    "uptime": "94.40%",
+    "uptime": "94.42%",
     "uptimeDay": "96.96%",
-    "uptimeWeek": "96.83%",
+    "uptimeWeek": "97.24%",
     "uptimeMonth": "95.73%",
-    "uptimeYear": "94.40%",
-    "time": 3728,
-    "timeDay": 3923,
-    "timeWeek": 3759,
+    "uptimeYear": "94.42%",
+    "time": 3735,
+    "timeDay": 4351,
+    "timeWeek": 3698,
     "timeMonth": 3694,
-    "timeYear": 3728,
+    "timeYear": 3735,
     "dailyMinutesDown": {
       "2026-03-11": 44,
       "2026-03-09": 26,
@@ -2685,10 +2685,10 @@
     "uptimeMonth": "96.69%",
     "uptimeYear": "98.90%",
     "time": 2108,
-    "timeDay": 2551,
+    "timeDay": 2689,
     "timeWeek": 2213,
-    "timeMonth": 2123,
-    "timeYear": 2108,
+    "timeMonth": 2096,
+    "timeYear": 2109,
     "dailyMinutesDown": {
       "2026-03-11": 44,
       "2026-03-09": 26,
@@ -2761,11 +2761,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 804,
-    "timeWeek": 357,
+    "time": 289,
+    "timeDay": 41,
+    "timeWeek": 338,
     "timeMonth": 329,
-    "timeYear": 293,
+    "timeYear": 289,
     "dailyMinutesDown": {}
   },
   {
@@ -2774,16 +2774,16 @@
     "icon": "https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png",
     "slug": "baffi-cafe-ro",
     "status": "up",
-    "uptime": "95.03%",
+    "uptime": "95.05%",
     "uptimeDay": "96.95%",
     "uptimeWeek": "97.23%",
     "uptimeMonth": "96.77%",
-    "uptimeYear": "95.03%",
-    "time": 1498,
-    "timeDay": 1444,
-    "timeWeek": 1564,
+    "uptimeYear": "95.05%",
+    "time": 1499,
+    "timeDay": 1509,
+    "timeWeek": 1563,
     "timeMonth": 1529,
-    "timeYear": 1498,
+    "timeYear": 1499,
     "dailyMinutesDown": {
       "2026-03-11": 44,
       "2026-03-09": 26,
@@ -2848,10 +2848,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 173,
-    "timeWeek": 126,
-    "timeMonth": 132,
-    "timeYear": 117,
+    "timeDay": 209,
+    "timeWeek": 137,
+    "timeMonth": 135,
+    "timeYear": 118,
     "dailyMinutesDown": {
       "2025-09-22": 23
     }
@@ -2868,8 +2868,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 71,
-    "timeDay": 126,
-    "timeWeek": 71,
+    "timeDay": 105,
+    "timeWeek": 67,
     "timeMonth": 85,
     "timeYear": 71,
     "dailyMinutesDown": {}
