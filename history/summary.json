@@ -234,13 +234,13 @@
     "slug": "good-pc-ro",
     "status": "up",
     "uptime": "95.59%",
-    "uptimeDay": "56.68%",
-    "uptimeWeek": "82.28%",
+    "uptimeDay": "64.35%",
+    "uptimeWeek": "82.37%",
     "uptimeMonth": "79.44%",
     "uptimeYear": "95.59%",
     "time": 545,
     "timeDay": 747,
-    "timeWeek": 917,
+    "timeWeek": 931,
     "timeMonth": 869,
     "timeYear": 513,
     "dailyMinutesDown": {
@@ -279,7 +279,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 1436,
+      "2026-05-16": 106,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -642,8 +643,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -658,7 +658,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 174,
+    "timeDay": 175,
     "timeWeek": 182,
     "timeMonth": 238,
     "timeYear": 174,
@@ -683,7 +683,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 1436,
+      "2026-05-16": 106,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -1046,8 +1047,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -1067,7 +1067,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 1436,
+      "2026-05-16": 106,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -1430,8 +1431,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -1451,7 +1451,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 1436,
+      "2026-05-16": 106,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -1814,8 +1815,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -1835,7 +1835,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 1436,
+      "2026-05-16": 106,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -2198,8 +2199,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -2214,12 +2214,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 236,
-    "timeDay": 132,
+    "timeDay": 134,
     "timeWeek": 126,
     "timeMonth": 209,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2026-05-15": 1436,
+      "2026-05-16": 106,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -2582,8 +2583,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -2598,8 +2598,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 135,
-    "timeDay": 96,
-    "timeWeek": 123,
+    "timeDay": 101,
+    "timeWeek": 129,
     "timeMonth": 135,
     "timeYear": 140,
     "dailyMinutesDown": {
@@ -2626,18 +2626,19 @@
     "icon": "https://ionut-francisc.netlify.app/favicon.png",
     "slug": "ionut-francisc-com-netlify-dev-version",
     "status": "down",
-    "uptime": "98.97%",
+    "uptime": "98.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.94%",
-    "uptimeYear": "95.73%",
+    "uptimeMonth": "48.69%",
+    "uptimeYear": "95.71%",
     "time": 429,
-    "timeDay": 57,
-    "timeWeek": 43,
+    "timeDay": 55,
+    "timeWeek": 46,
     "timeMonth": 290,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2026-05-15": 1436,
+      "2026-05-16": 106,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -2668,8 +2669,8 @@
     "uptimeMonth": "96.78%",
     "uptimeYear": "97.04%",
     "time": 3638,
-    "timeDay": 5083,
-    "timeWeek": 4813,
+    "timeDay": 4381,
+    "timeWeek": 4767,
     "timeMonth": 3615,
     "timeYear": 3638,
     "dailyMinutesDown": {
@@ -2736,12 +2737,12 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.38%",
+    "uptimeWeek": "98.39%",
     "uptimeMonth": "96.39%",
     "uptimeYear": "98.89%",
     "time": 2221,
-    "timeDay": 1584,
-    "timeWeek": 2585,
+    "timeDay": 1661,
+    "timeWeek": 2528,
     "timeMonth": 2352,
     "timeYear": 2192,
     "dailyMinutesDown": {
@@ -2805,18 +2806,19 @@
     "icon": "https://security-telecom.ro/wp-content/uploads/2023/01/logo-security-telecom-removebg-preview.png",
     "slug": "new-security-and-telecom-systems",
     "status": "down",
-    "uptime": "89.04%",
+    "uptime": "88.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.94%",
-    "uptimeYear": "89.04%",
+    "uptimeMonth": "48.69%",
+    "uptimeYear": "88.99%",
     "time": 285,
-    "timeDay": 64,
-    "timeWeek": 43,
+    "timeDay": 58,
+    "timeWeek": 44,
     "timeMonth": 269,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2026-05-15": 1436,
+      "2026-05-16": 107,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -2846,8 +2848,8 @@
     "uptimeMonth": "99.22%",
     "uptimeYear": "96.15%",
     "time": 1577,
-    "timeDay": 1431,
-    "timeWeek": 1693,
+    "timeDay": 1530,
+    "timeWeek": 1748,
     "timeMonth": 1764,
     "timeYear": 1577,
     "dailyMinutesDown": {
@@ -2927,8 +2929,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 79,
-    "timeWeek": 132,
+    "timeDay": 72,
+    "timeWeek": 133,
     "timeMonth": 135,
     "timeYear": 123,
     "dailyMinutesDown": {
@@ -2947,8 +2949,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 67,
-    "timeDay": 65,
-    "timeWeek": 68,
+    "timeDay": 72,
+    "timeWeek": 70,
     "timeMonth": 67,
     "timeYear": 67,
     "dailyMinutesDown": {}
