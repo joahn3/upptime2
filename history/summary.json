@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.69%",
     "uptimeYear": "99.08%",
-    "time": 643,
-    "timeDay": 442,
-    "timeWeek": 267,
-    "timeMonth": 254,
-    "timeYear": 643,
+    "time": 641,
+    "timeDay": 184,
+    "timeWeek": 259,
+    "timeMonth": 226,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2026-01-18": 17,
       "2026-02-11": 97,
@@ -36,9 +36,9 @@
     "uptimeMonth": "95.69%",
     "uptimeYear": "99.11%",
     "time": 80,
-    "timeDay": 181,
-    "timeWeek": 225,
-    "timeMonth": 221,
+    "timeDay": 130,
+    "timeWeek": 194,
+    "timeMonth": 225,
     "timeYear": 80,
     "dailyMinutesDown": {
       "2026-01-18": 17,
@@ -53,16 +53,16 @@
     "icon": "https://temejoc.ro/wp-content/uploads/2025/12/cropped-temejoc-logo-simplu-fundal-transparent-v3-xp-orbit-192x192.avif",
     "slug": "teme-joc-ro",
     "status": "up",
-    "uptime": "97.37%",
+    "uptime": "97.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.29%",
     "uptimeMonth": "97.55%",
-    "uptimeYear": "97.37%",
-    "time": 1726,
-    "timeDay": 2289,
-    "timeWeek": 2217,
+    "uptimeYear": "97.38%",
+    "time": 1727,
+    "timeDay": 2254,
+    "timeWeek": 2195,
     "timeMonth": 1942,
-    "timeYear": 1726,
+    "timeYear": 1727,
     "dailyMinutesDown": {
       "2026-02-14": 129,
       "2026-02-15": 145,
@@ -132,9 +132,9 @@
     "uptimeMonth": "97.55%",
     "uptimeYear": "97.41%",
     "time": 3850,
-    "timeDay": 6220,
+    "timeDay": 3570,
     "timeWeek": 5058,
-    "timeMonth": 4888,
+    "timeMonth": 4828,
     "timeYear": 3850,
     "dailyMinutesDown": {
       "2026-02-14": 129,
@@ -203,11 +203,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 2366,
-    "timeDay": 1573,
-    "timeWeek": 1868,
-    "timeMonth": 1808,
-    "timeYear": 2279,
+    "time": 2363,
+    "timeDay": 1673,
+    "timeWeek": 1865,
+    "timeMonth": 1802,
+    "timeYear": 2275,
     "dailyMinutesDown": {
       "2025-06-09": 157,
       "2025-06-14": 51,
@@ -228,16 +228,16 @@
     "url": "https://goodpc.ro",
     "icon": "https://goodpc.ro/assets/images/goodpc-logo.svg",
     "slug": "good-pc-ro",
-    "status": "up",
+    "status": "down",
     "uptime": "94.70%",
-    "uptimeDay": "91.25%",
-    "uptimeWeek": "89.85%",
-    "uptimeMonth": "72.88%",
+    "uptimeDay": "91.08%",
+    "uptimeWeek": "89.82%",
+    "uptimeMonth": "72.87%",
     "uptimeYear": "94.70%",
     "time": 609,
-    "timeDay": 823,
-    "timeWeek": 887,
-    "timeMonth": 976,
+    "timeDay": 936,
+    "timeWeek": 906,
+    "timeMonth": 986,
     "timeYear": 583,
     "dailyMinutesDown": {
       "2026-05-04": 898,
@@ -269,7 +269,8 @@
       "2026-05-26": 163,
       "2026-05-28": 87,
       "2026-05-27": 2,
-      "2026-05-29": 126
+      "2026-05-29": 126,
+      "2026-05-30": 2
     }
   },
   {
@@ -278,7 +279,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/notarsector4.ro.ico",
     "slug": "notariat-sector-4",
     "status": "down",
-    "uptime": "22.39%",
+    "uptime": "22.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -289,7 +290,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-29": 1275,
+      "2026-05-30": 10,
+      "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
@@ -652,8 +654,7 @@
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
-      "2025-05-31": 1440,
-      "2025-05-30": 1440
+      "2025-05-31": 1440
     }
   },
   {
@@ -668,9 +669,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 196,
-    "timeWeek": 233,
-    "timeMonth": 214,
+    "timeDay": 131,
+    "timeWeek": 235,
+    "timeMonth": 212,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2025-08-12": 15
@@ -693,7 +694,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-29": 1275,
+      "2026-05-30": 10,
+      "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
@@ -1056,8 +1058,7 @@
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
-      "2025-05-31": 1440,
-      "2025-05-30": 1440
+      "2025-05-31": 1440
     }
   },
   {
@@ -1077,7 +1078,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-29": 1275,
+      "2026-05-30": 10,
+      "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
@@ -1440,8 +1442,7 @@
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
-      "2025-05-31": 1440,
-      "2025-05-30": 1440
+      "2025-05-31": 1440
     }
   },
   {
@@ -1461,7 +1462,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-29": 1275,
+      "2026-05-30": 10,
+      "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
@@ -1824,8 +1826,7 @@
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
-      "2025-05-31": 1440,
-      "2025-05-30": 1440
+      "2025-05-31": 1440
     }
   },
   {
@@ -1845,7 +1846,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-29": 1275,
+      "2026-05-30": 10,
+      "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
@@ -2208,8 +2210,7 @@
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
-      "2025-05-31": 1440,
-      "2025-05-30": 1440
+      "2025-05-31": 1440
     }
   },
   {
@@ -2218,18 +2219,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/la-sulea.business.site.ico",
     "slug": "restaurant-la-sulea",
     "status": "down",
-    "uptime": "47.94%",
+    "uptime": "47.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 233,
-    "timeDay": 131,
-    "timeWeek": 130,
-    "timeMonth": 160,
-    "timeYear": 233,
+    "timeDay": 123,
+    "timeWeek": 129,
+    "timeMonth": 158,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-05-29": 1275,
+      "2026-05-30": 10,
+      "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
@@ -2592,8 +2594,7 @@
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
-      "2025-05-31": 1440,
-      "2025-05-30": 1440
+      "2025-05-31": 1440
     }
   },
   {
@@ -2608,9 +2609,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 134,
-    "timeDay": 107,
+    "timeDay": 83,
     "timeWeek": 104,
-    "timeMonth": 122,
+    "timeMonth": 121,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2025-07-27": 22,
@@ -2637,15 +2638,15 @@
     "slug": "ionut-francisc-com-netlify-dev-version",
     "status": "up",
     "uptime": "98.12%",
-    "uptimeDay": "80.48%",
-    "uptimeWeek": "11.50%",
+    "uptimeDay": "92.60%",
+    "uptimeWeek": "13.23%",
     "uptimeMonth": "5.93%",
     "uptimeYear": "92.15%",
     "time": 429,
-    "timeDay": 464,
-    "timeWeek": 152,
-    "timeMonth": 125,
-    "timeYear": 508,
+    "timeDay": 512,
+    "timeWeek": 224,
+    "timeMonth": 121,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2025-10-20": 77,
       "2026-05-29": 116,
@@ -2691,11 +2692,11 @@
     "uptimeWeek": "98.30%",
     "uptimeMonth": "97.55%",
     "uptimeYear": "97.23%",
-    "time": 3684,
-    "timeDay": 5800,
-    "timeWeek": 4663,
-    "timeMonth": 4211,
-    "timeYear": 3684,
+    "time": 3689,
+    "timeDay": 6083,
+    "timeWeek": 4682,
+    "timeMonth": 4220,
+    "timeYear": 3689,
     "dailyMinutesDown": {
       "2026-02-14": 92,
       "2026-02-15": 146,
@@ -2765,10 +2766,10 @@
     "uptimeWeek": "97.52%",
     "uptimeMonth": "97.37%",
     "uptimeYear": "98.84%",
-    "time": 2226,
-    "timeDay": 1641,
-    "timeWeek": 2412,
-    "timeMonth": 2400,
+    "time": 2225,
+    "timeDay": 1677,
+    "timeWeek": 2301,
+    "timeMonth": 2370,
     "timeYear": 2195,
     "dailyMinutesDown": {
       "2026-02-15": 146,
@@ -2833,16 +2834,16 @@
     "icon": "https://security-telecom.ro/wp-content/uploads/2023/01/logo-security-telecom-removebg-preview.png",
     "slug": "new-security-and-telecom-systems",
     "status": "up",
-    "uptime": "81.61%",
-    "uptimeDay": "80.48%",
-    "uptimeWeek": "11.50%",
+    "uptime": "81.63%",
+    "uptimeDay": "92.60%",
+    "uptimeWeek": "13.23%",
     "uptimeMonth": "5.93%",
-    "uptimeYear": "81.61%",
-    "time": 268,
-    "timeDay": 336,
-    "timeWeek": 129,
-    "timeMonth": 119,
-    "timeYear": 268,
+    "uptimeYear": "81.63%",
+    "time": 269,
+    "timeDay": 354,
+    "timeWeek": 175,
+    "timeMonth": 115,
+    "timeYear": 269,
     "dailyMinutesDown": {
       "2026-05-29": 117,
       "2026-05-28": 1440,
@@ -2887,11 +2888,11 @@
     "uptimeWeek": "98.36%",
     "uptimeMonth": "98.27%",
     "uptimeYear": "96.37%",
-    "time": 1575,
-    "timeDay": 1389,
-    "timeWeek": 1253,
-    "timeMonth": 1665,
-    "timeYear": 1575,
+    "time": 1574,
+    "timeDay": 1287,
+    "timeWeek": 1256,
+    "timeMonth": 1659,
+    "timeYear": 1574,
     "dailyMinutesDown": {
       "2026-01-08": 43,
       "2026-01-10": 29,
@@ -2968,9 +2969,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 68,
-    "timeWeek": 107,
-    "timeMonth": 125,
+    "timeDay": 64,
+    "timeWeek": 104,
+    "timeMonth": 122,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2025-09-22": 23
@@ -2988,9 +2989,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 69,
-    "timeDay": 52,
-    "timeWeek": 99,
-    "timeMonth": 80,
+    "timeDay": 42,
+    "timeWeek": 98,
+    "timeMonth": 79,
     "timeYear": 69,
     "dailyMinutesDown": {}
   }
