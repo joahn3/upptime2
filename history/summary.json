@@ -54,9 +54,9 @@
     "slug": "teme-joc-ro",
     "status": "down",
     "uptime": "96.05%",
-    "uptimeDay": "84.70%",
-    "uptimeWeek": "72.28%",
-    "uptimeMonth": "88.32%",
+    "uptimeDay": "84.28%",
+    "uptimeWeek": "72.22%",
+    "uptimeMonth": "88.30%",
     "uptimeYear": "96.05%",
     "time": 1711,
     "timeDay": 1480,
@@ -122,7 +122,7 @@
       "2026-06-09": 572,
       "2026-06-10": 164,
       "2026-06-11": 217,
-      "2026-06-12": 3
+      "2026-06-12": 9
     }
   },
   {
@@ -132,9 +132,9 @@
     "slug": "chic-roumaine-com",
     "status": "down",
     "uptime": "96.18%",
-    "uptimeDay": "84.73%",
-    "uptimeWeek": "75.06%",
-    "uptimeMonth": "88.96%",
+    "uptimeDay": "84.31%",
+    "uptimeWeek": "75.00%",
+    "uptimeMonth": "88.95%",
     "uptimeYear": "96.18%",
     "time": 3818,
     "timeDay": 2889,
@@ -200,7 +200,7 @@
       "2026-06-09": 572,
       "2026-06-10": 163,
       "2026-06-11": 217,
-      "2026-06-12": 3
+      "2026-06-12": 9
     }
   },
   {
@@ -310,7 +310,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-12": 123,
+      "2026-06-12": 129,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -714,7 +714,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-12": 123,
+      "2026-06-12": 129,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -1098,7 +1098,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-12": 123,
+      "2026-06-12": 129,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -1482,7 +1482,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-12": 123,
+      "2026-06-12": 129,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -1866,7 +1866,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-12": 123,
+      "2026-06-12": 129,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -2250,7 +2250,7 @@
     "timeMonth": 134,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-06-12": 123,
+      "2026-06-12": 129,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -2660,7 +2660,7 @@
     "uptime": "98.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.53%",
-    "uptimeMonth": "43.79%",
+    "uptimeMonth": "43.81%",
     "uptimeYear": "92.12%",
     "time": 440,
     "timeDay": 914,
@@ -2709,9 +2709,9 @@
     "slug": "bol-dmodels-ro",
     "status": "down",
     "uptime": "96.06%",
-    "uptimeDay": "84.86%",
-    "uptimeWeek": "72.38%",
-    "uptimeMonth": "88.35%",
+    "uptimeDay": "84.44%",
+    "uptimeWeek": "72.32%",
+    "uptimeMonth": "88.34%",
     "uptimeYear": "96.06%",
     "time": 3697,
     "timeDay": 3997,
@@ -2776,7 +2776,7 @@
       "2026-06-09": 570,
       "2026-06-10": 160,
       "2026-06-11": 217,
-      "2026-06-12": 1
+      "2026-06-12": 7
     }
   },
   {
@@ -2786,9 +2786,9 @@
     "slug": "security-and-telecom-systems",
     "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "84.89%",
-    "uptimeWeek": "72.41%",
-    "uptimeMonth": "88.01%",
+    "uptimeDay": "84.47%",
+    "uptimeWeek": "72.35%",
+    "uptimeMonth": "88.00%",
     "uptimeYear": "98.15%",
     "time": 2182,
     "timeDay": 1615,
@@ -2853,7 +2853,7 @@
       "2026-06-09": 569,
       "2026-06-10": 160,
       "2026-06-11": 217,
-      "2026-06-12": 1
+      "2026-06-12": 7
     }
   },
   {
@@ -2865,7 +2865,7 @@
     "uptime": "82.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.58%",
-    "uptimeMonth": "43.80%",
+    "uptimeMonth": "43.82%",
     "uptimeYear": "82.99%",
     "time": 286,
     "timeDay": 530,
@@ -2912,11 +2912,11 @@
     "icon": "https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png",
     "slug": "baffi-cafe-ro",
     "status": "down",
-    "uptime": "95.18%",
-    "uptimeDay": "84.91%",
-    "uptimeWeek": "72.48%",
-    "uptimeMonth": "88.92%",
-    "uptimeYear": "95.18%",
+    "uptime": "95.17%",
+    "uptimeDay": "84.49%",
+    "uptimeWeek": "72.42%",
+    "uptimeMonth": "88.91%",
+    "uptimeYear": "95.17%",
     "time": 1573,
     "timeDay": 1798,
     "timeWeek": 1581,
@@ -2983,7 +2983,7 @@
       "2026-06-09": 569,
       "2026-06-10": 155,
       "2026-06-11": 216,
-      "2026-06-12": 1
+      "2026-06-12": 7
     }
   },
   {
