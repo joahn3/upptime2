@@ -54,9 +54,9 @@
     "slug": "teme-joc-ro",
     "status": "down",
     "uptime": "95.68%",
-    "uptimeDay": "68.57%",
-    "uptimeWeek": "80.74%",
-    "uptimeMonth": "85.49%",
+    "uptimeDay": "67.31%",
+    "uptimeWeek": "80.56%",
+    "uptimeMonth": "85.44%",
     "uptimeYear": "95.68%",
     "time": 1706,
     "timeDay": 1274,
@@ -123,7 +123,7 @@
       "2026-06-14": 407,
       "2026-06-15": 5,
       "2026-06-16": 436,
-      "2026-06-17": 16
+      "2026-06-17": 35
     }
   },
   {
@@ -132,11 +132,11 @@
     "icon": "https://chicroumaine.com/wp-content/uploads/2016/12/logo_chicroumaine.png",
     "slug": "chic-roumaine-com",
     "status": "down",
-    "uptime": "95.82%",
-    "uptimeDay": "68.61%",
-    "uptimeWeek": "80.75%",
-    "uptimeMonth": "86.13%",
-    "uptimeYear": "95.82%",
+    "uptime": "95.81%",
+    "uptimeDay": "67.35%",
+    "uptimeWeek": "80.57%",
+    "uptimeMonth": "86.09%",
+    "uptimeYear": "95.81%",
     "time": 3811,
     "timeDay": 2472,
     "timeWeek": 3379,
@@ -201,7 +201,7 @@
       "2026-06-14": 407,
       "2026-06-15": 5,
       "2026-06-16": 436,
-      "2026-06-17": 16
+      "2026-06-17": 34
     }
   },
   {
@@ -313,7 +313,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-17": 131,
+      "2026-06-17": 149,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
@@ -717,7 +717,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-17": 131,
+      "2026-06-17": 149,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
@@ -1101,7 +1101,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-17": 131,
+      "2026-06-17": 149,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
@@ -1485,7 +1485,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-17": 131,
+      "2026-06-17": 149,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
@@ -1869,7 +1869,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-17": 131,
+      "2026-06-17": 149,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
@@ -2253,7 +2253,7 @@
     "timeMonth": 132,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-06-17": 131,
+      "2026-06-17": 149,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
@@ -2663,7 +2663,7 @@
     "uptime": "98.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.53%",
-    "uptimeMonth": "60.25%",
+    "uptimeMonth": "60.29%",
     "uptimeYear": "92.12%",
     "time": 447,
     "timeDay": 742,
@@ -2712,9 +2712,9 @@
     "slug": "bol-dmodels-ro",
     "status": "down",
     "uptime": "95.65%",
-    "uptimeDay": "68.76%",
-    "uptimeWeek": "79.51%",
-    "uptimeMonth": "85.22%",
+    "uptimeDay": "67.51%",
+    "uptimeWeek": "79.34%",
+    "uptimeMonth": "85.18%",
     "uptimeYear": "95.65%",
     "time": 3696,
     "timeDay": 3030,
@@ -2780,7 +2780,7 @@
       "2026-06-14": 537,
       "2026-06-15": 8,
       "2026-06-16": 434,
-      "2026-06-17": 16
+      "2026-06-17": 34
     }
   },
   {
@@ -2790,10 +2790,10 @@
     "slug": "security-and-telecom-systems",
     "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "68.81%",
-    "uptimeWeek": "79.54%",
-    "uptimeMonth": "84.88%",
-    "uptimeYear": "97.88%",
+    "uptimeDay": "67.56%",
+    "uptimeWeek": "79.36%",
+    "uptimeMonth": "84.84%",
+    "uptimeYear": "97.87%",
     "time": 2197,
     "timeDay": 1701,
     "timeWeek": 1843,
@@ -2858,7 +2858,7 @@
       "2026-06-14": 537,
       "2026-06-15": 8,
       "2026-06-16": 433,
-      "2026-06-17": 16
+      "2026-06-17": 34
     }
   },
   {
@@ -2870,7 +2870,7 @@
     "uptime": "83.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.58%",
-    "uptimeMonth": "60.26%",
+    "uptimeMonth": "60.30%",
     "uptimeYear": "83.48%",
     "time": 294,
     "timeDay": 675,
@@ -2917,11 +2917,11 @@
     "icon": "https://bafficafe.ro/wp-content/uploads/2021/03/cropped-cropped-Logo-Baffi-Cafe-2-300x113.png",
     "slug": "baffi-cafe-ro",
     "status": "down",
-    "uptime": "94.79%",
-    "uptimeDay": "68.85%",
-    "uptimeWeek": "79.61%",
-    "uptimeMonth": "85.80%",
-    "uptimeYear": "94.79%",
+    "uptime": "94.78%",
+    "uptimeDay": "67.61%",
+    "uptimeWeek": "79.43%",
+    "uptimeMonth": "85.75%",
+    "uptimeYear": "94.78%",
     "time": 1585,
     "timeDay": 1329,
     "timeWeek": 1893,
@@ -2988,7 +2988,7 @@
       "2026-06-14": 537,
       "2026-06-15": 8,
       "2026-06-16": 433,
-      "2026-06-17": 16
+      "2026-06-17": 34
     }
   },
   {
