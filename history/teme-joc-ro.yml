@@ -1,7 +1,7 @@
 url: https://temejoc.ro
-status: up
-code: 200
-responseTime: 2476
-lastUpdated: 2026-06-27T00:03:24.394Z
+status: down
+code: 415
+responseTime: 503
+lastUpdated: 2026-06-27T23:59:04.639Z
 startTime: 2025-12-25T06:28:39.918Z
 generator: Upptime <https://github.com/upptime/upptime>
